@@ -1,0 +1,4288 @@
+"particles"
+{
+	"ambient_fx.pcf"
+	{
+		"achieved"
+		{
+			"name"	"achieved"
+		}
+		"aircraft_navgreen"
+		{
+			"name"	"aircraft_navgreen"
+		}
+		"aircraft_navred"
+		{
+			"name"	"aircraft_navred"
+		}
+		"aircraft_strobe_orange"
+		{
+			"name"	"aircraft_strobe_orange"
+		}
+		"ambient_leaf_blow_e"
+		{
+			"name"	"ambient_leaf_blow_e"
+		}
+		"ambient_leaf_blow_n"
+		{
+			"name"	"ambient_leaf_blow_n"
+		}
+		"ambient_leaf_blow_s"
+		{
+			"name"	"ambient_leaf_blow_s"
+		}
+		"ambient_leaf_blow_vertical"
+		{
+			"name"	"ambient_leaf_blow_vertical"
+		}
+		"ambient_leaf_blow_vertical_COLLISION_BACKUP"
+		{
+			"name"	"ambient_leaf_blow_vertical_COLLISION_BACKUP"
+		}
+		"ambient_leaf_blow_w"
+		{
+			"name"	"ambient_leaf_blow_w"
+		}
+		"ambient_paper_blow_e"
+		{
+			"name"	"ambient_paper_blow_e"
+		}
+		"ambient_paper_blow_n"
+		{
+			"name"	"ambient_paper_blow_n"
+		}
+		"ambient_paper_blow_s"
+		{
+			"name"	"ambient_paper_blow_s"
+		}
+		"ambient_paper_blow_w"
+		{
+			"name"	"ambient_paper_blow_w"
+		}
+		"ambient_smokestack"
+		{
+			"name"	"ambient_smokestack"
+		}
+		"ambient_smokestack_noise"
+		{
+			"name"	"ambient_smokestack_noise"
+		}
+		"ambient_sparks"
+		{
+			"name"	"ambient_sparks"
+		}
+		"ambient_sparks_backup"
+		{
+			"name"	"ambient_sparks_backup"
+		}
+		"ambient_sparks_core"
+		{
+			"name"	"ambient_sparks_core"
+		}
+		"ambient_sparks_glow"
+		{
+			"name"	"ambient_sparks_glow"
+		}
+		"apc_wheeldust"
+		{
+			"name"	"apc_wheeldust"
+		}
+		"apc_wheeldust_clumps"
+		{
+			"name"	"apc_wheeldust_clumps"
+		}
+		"apc_wheeldust_clumps_slow"
+		{
+			"name"	"apc_wheeldust_clumps_slow"
+		}
+		"apc_wheeldust_large"
+		{
+			"name"	"apc_wheeldust_large"
+		}
+		"apc_wheeldust_slow"
+		{
+			"name"	"apc_wheeldust_slow"
+		}
+		"copter_land_loop_1"
+		{
+			"name"	"copter_land_loop_1"
+		}
+		"copter_land_loop_1_dust_low"
+		{
+			"name"	"copter_land_loop_1_dust_low"
+		}
+		"copter_land_loop_1_grass"
+		{
+			"name"	"copter_land_loop_1_grass"
+		}
+		"copter_takeoff_1"
+		{
+			"name"	"copter_takeoff_1"
+		}
+		"copter_takeoff_1_dust_low"
+		{
+			"name"	"copter_takeoff_1_dust_low"
+		}
+		"copter_takeoff_1_grass"
+		{
+			"name"	"copter_takeoff_1_grass"
+		}
+		"cratebeacon_light_blink"
+		{
+			"name"	"cratebeacon_light_blink"
+		}
+		"cratebeacon_light_blink_a"
+		{
+			"name"	"cratebeacon_light_blink_a"
+		}
+		"cratebeacon_light_blink_b"
+		{
+			"name"	"cratebeacon_light_blink_b"
+		}
+		"dissolve"
+		{
+			"name"	"dissolve"
+		}
+		"engSmokeA"
+		{
+			"name"	"engSmokeA"
+		}
+		"engSmokeA_con"
+		{
+			"name"	"engSmokeA_con"
+		}
+		"engSmokeA_rev"
+		{
+			"name"	"engSmokeA_rev"
+		}
+		"engSmokeB"
+		{
+			"name"	"engSmokeB"
+		}
+		"engSmokeB_con"
+		{
+			"name"	"engSmokeB_con"
+		}
+		"engSmokeB_rev"
+		{
+			"name"	"engSmokeB_rev"
+		}
+		"env_sparks_a"
+		{
+			"name"	"env_sparks_a"
+		}
+		"env_sparks_b"
+		{
+			"name"	"env_sparks_b"
+		}
+		"env_sparks_c"
+		{
+			"name"	"env_sparks_c"
+		}
+		"env_sparks_d"
+		{
+			"name"	"env_sparks_d"
+		}
+		"env_sparks_directional"
+		{
+			"name"	"env_sparks_directional"
+		}
+		"env_sparks_directional_a"
+		{
+			"name"	"env_sparks_directional_a"
+		}
+		"env_sparks_directional_e"
+		{
+			"name"	"env_sparks_directional_e"
+		}
+		"env_sparks_directional_f"
+		{
+			"name"	"env_sparks_directional_f"
+		}
+		"env_sparks_directional_g"
+		{
+			"name"	"env_sparks_directional_g"
+		}
+		"env_sparks_directional_h"
+		{
+			"name"	"env_sparks_directional_h"
+		}
+		"env_sparks_dierctional_i"
+		{
+			"name"	"env_sparks_dierctional_i"
+		}
+		"env_sparks_e"
+		{
+			"name"	"env_sparks_e"
+		}
+		"env_sparks_f"
+		{
+			"name"	"env_sparks_f"
+		}
+		"env_sparks_g"
+		{
+			"name"	"env_sparks_g"
+		}
+		"env_sparks_h"
+		{
+			"name"	"env_sparks_h"
+		}
+		"env_sparks_i"
+		{
+			"name"	"env_sparks_i"
+		}
+		"env_sparks_j"
+		{
+			"name"	"env_sparks_j"
+		}
+		"env_sparks_k"
+		{
+			"name"	"env_sparks_k"
+		}
+		"env_sparks_omni"
+		{
+			"name"	"env_sparks_omni"
+		}
+		"impact_dirt"
+		{
+			"name"	"impact_dirt"
+		}
+		"impact_dirt_child_base"
+		{
+			"name"	"impact_dirt_child_base"
+		}
+		"impact_dirt_child_clumps"
+		{
+			"name"	"impact_dirt_child_clumps"
+		}
+		"impact_dirt_child_smoke_puff"
+		{
+			"name"	"impact_dirt_child_smoke_puff"
+		}
+		"impact_generic_burst_3"
+		{
+			"name"	"impact_generic_burst_3"
+		}
+		"impact_generic_smoke_large"
+		{
+			"name"	"impact_generic_smoke_large"
+		}
+		"leaf_blow_green_horizontal"
+		{
+			"name"	"leaf_blow_green_horizontal"
+		}
+		"leaf_blow_green_vertical"
+		{
+			"name"	"leaf_blow_green_vertical"
+		}
+		"ricochet_sparks_contrast_glow_soft"
+		{
+			"name"	"ricochet_sparks_contrast_glow_soft"
+		}
+		"stars_skybox"
+		{
+			"name"	"stars_skybox"
+		}
+		"stars_skybox_tiny"
+		{
+			"name"	"stars_skybox_tiny"
+		}
+	}
+	"blood_impact.pcf"
+	{
+		"blood_impact_basic"
+		{
+			"name"	"blood_impact_basic"
+		}
+		"blood_impact_basic_fallback"
+		{
+			"name"	"blood_impact_basic_fallback"
+		}
+		"blood_impact_chunks1"
+		{
+			"name"	"blood_impact_chunks1"
+		}
+		"blood_impact_drops1"
+		{
+			"name"	"blood_impact_drops1"
+		}
+		"blood_impact_dust"
+		{
+			"name"	"blood_impact_dust"
+		}
+		"blood_impact_goop_heavy"
+		{
+			"name"	"blood_impact_goop_heavy"
+		}
+		"blood_impact_goop_light"
+		{
+			"name"	"blood_impact_goop_light"
+		}
+		"blood_impact_goop_medium"
+		{
+			"name"	"blood_impact_goop_medium"
+		}
+		"blood_impact_green_01"
+		{
+			"name"	"blood_impact_green_01"
+		}
+		"blood_impact_headshot"
+		{
+			"name"	"blood_impact_headshot"
+		}
+		"blood_impact_headshot_01b"
+		{
+			"name"	"blood_impact_headshot_01b"
+		}
+		"blood_impact_headshot_01c"
+		{
+			"name"	"blood_impact_headshot_01c"
+		}
+		"blood_impact_headshot_01d"
+		{
+			"name"	"blood_impact_headshot_01d"
+		}
+		"blood_impact_headshot_01e"
+		{
+			"name"	"blood_impact_headshot_01e"
+		}
+		"blood_impact_heavy"
+		{
+			"name"	"blood_impact_heavy"
+		}
+		"blood_impact_light"
+		{
+			"name"	"blood_impact_light"
+		}
+		"blood_impact_light_headshot"
+		{
+			"name"	"blood_impact_light_headshot"
+		}
+		"blood_impact_medium"
+		{
+			"name"	"blood_impact_medium"
+		}
+		"blood_impact_mist1"
+		{
+			"name"	"blood_impact_mist1"
+		}
+		"blood_impact_mist1_light"
+		{
+			"name"	"blood_impact_mist1_light"
+		}
+		"blood_impact_heavy"
+		{
+			"name"	"blood_impact_heavy"
+		}
+		"blood_impact_red_01"
+		{
+			"name"	"blood_impact_red_01"
+		}
+		"blood_impact_red_01_backspray"
+		{
+			"name"	"blood_impact_red_01_backspray"
+		}
+		"blood_impact_red_01_chunk"
+		{
+			"name"	"blood_impact_red_01_chunk"
+		}
+		"blood_impact_red_01_drops"
+		{
+			"name"	"blood_impact_red_01_drops"
+		}
+		"blood_impact_red_01_goop_a"
+		{
+			"name"	"blood_impact_red_01_goop_a"
+		}
+		"blood_impact_red_01_goop_a_backup"
+		{
+			"name"	"blood_impact_red_01_goop_a_backup"
+		}
+		"blood_impact_red_01_goop_b"
+		{
+			"name"	"blood_impact_red_01_goop_b"
+		}
+		"blood_impact_red_01_goop_c"
+		{
+			"name"	"blood_impact_red_01_goop_c"
+		}
+		"blood_impact_red_01_mist"
+		{
+			"name"	"blood_impact_red_01_mist"
+		}
+		"blood_impact_yellow_01"
+		{
+			"name"	"blood_impact_yellow_01"
+		}
+		"blood_pool"
+		{
+			"name"	"blood_pool"
+		}
+		"gore_goop_generic"
+		{
+			"name"	"gore_goop_generic"
+		}
+		"impact_blood_glow"
+		{
+			"name"	"impact_blood_glow"
+		}
+		"impact_blood_glow_light"
+		{
+			"name"	"impact_blood_glow_light"
+		}
+		"impact_blood_glow_light_master"
+		{
+			"name"	"impact_blood_glow_light_master"
+		}
+		"impact_blood_glow_normal_master"
+		{
+			"name"	"impact_blood_glow_normal_master"
+		}
+		"molotov_groundfire_child_base8"
+		{
+			"name"	"molotov_groundfire_child_base8"
+		}
+	}
+	"burning_fx.pcf"
+	{
+		"burning_character"
+		{
+			"name"	"burning_character"
+		}
+		"burning_character_b"
+		{
+			"name"	"burning_character_b"
+		}
+		"burning_character_c"
+		{
+			"name"	"burning_character_c"
+		}
+		"burning_character_d"
+		{
+			"name"	"burning_character_d"
+		}
+		"burning_character_e"
+		{
+			"name"	"burning_character_e"
+		}
+		"burning_gib_01"
+		{
+			"name"	"burning_gib_01"
+		}
+		"env_embers_large"
+		{
+			"name"	"env_embers_large"
+		}
+		"env_embers_medium"
+		{
+			"name"	"env_embers_medium"
+		}
+		"env_embers_medium_spread"
+		{
+			"name"	"env_embers_medium_spread"
+		}
+		"env_embers_small"
+		{
+			"name"	"env_embers_small"
+		}
+		"env_embers_tiny"
+		{
+			"name"	"env_embers_tiny"
+		}
+		"env_fire_large"
+		{
+			"name"	"env_fire_large"
+		}
+		"env_fire_large_b"
+		{
+			"name"	"env_fire_large_b"
+		}
+		"env_fire_large_smoke"
+		{
+			"name"	"env_fire_large_smoke"
+		}
+		"env_fire_large_smoke_b"
+		{
+			"name"	"env_fire_large_smoke_b"
+		}
+		"env_fire_medium"
+		{
+			"name"	"env_fire_medium"
+		}
+		"env_fire_medium_b"
+		{
+			"name"	"env_fire_medium_b"
+		}
+		"env_fire_medium_smoke"
+		{
+			"name"	"env_fire_medium_smoke"
+		}
+		"env_fire_medium_spread"
+		{
+			"name"	"env_fire_medium_spread"
+		}
+		"env_fire_medium_spread_b"
+		{
+			"name"	"env_fire_medium_spread_b"
+		}
+		"env_fire_random_puff"
+		{
+			"name"	"env_fire_random_puff"
+		}
+		"env_fire_small"
+		{
+			"name"	"env_fire_small"
+		}
+		"env_fire_small_b"
+		{
+			"name"	"env_fire_small_b"
+		}
+		"env_fire_small_base"
+		{
+			"name"	"env_fire_small_base"
+		}
+		"env_fire_small_coverage"
+		{
+			"name"	"env_fire_small_coverage"
+		}
+		"env_fire_small_coverage_b"
+		{
+			"name"	"env_fire_small_coverage_b"
+		}
+		"env_fire_small_coverage_base"
+		{
+			"name"	"env_fire_small_coverage_base"
+		}
+		"env_fire_small_coverage_base_smoke"
+		{
+			"name"	"env_fire_small_coverage_base_smoke"
+		}
+		"env_fire_small_coverage_c"
+		{
+			"name"	"env_fire_small_coverage_c"
+		}
+		"env_fire_small_coverage_smoke"
+		{
+			"name"	"env_fire_small_coverage_smoke"
+		}
+		"env_fire_small_smoke"
+		{
+			"name"	"env_fire_small_smoke"
+		}
+		"env_fire_tiny"
+		{
+			"name"	"env_fire_tiny"
+		}
+		"env_fire_tiny_b"
+		{
+			"name"	"env_fire_tiny_b"
+		}
+		"env_fire_tiny_smoke"
+		{
+			"name"	"env_fire_tiny_smoke"
+		}
+		"smoke_gib_01"
+		{
+			"name"	"smoke_gib_01"
+		}
+	}
+	"explosions_fx.pcf"
+	{
+		"c4_timer_light"
+		{
+			"name"	"c4_timer_light"
+		}
+		"c4_timer_light_child01"
+		{
+			"name"	"c4_timer_light_child01"
+		}
+		"c4_timer_light_child01_small"
+		{
+			"name"	"c4_timer_light_child01_small"
+		}
+		"c4_timer_light_child02"
+		{
+			"name"	"c4_timer_light_child02"
+		}
+		"c4_timer_light_child02_yellow"
+		{
+			"name"	"c4_timer_light_child02_yellow"
+		}
+		"c4_timer_light_dropped"
+		{
+			"name"	"c4_timer_light_dropped"
+		}
+		"c4_timer_light_dropped_fallback"
+		{
+			"name"	"c4_timer_light_dropped_fallback"
+		}
+		"c4_timer_light_fallback"
+		{
+			"name"	"c4_timer_light_fallback"
+		}
+		"c4_timer_light_held"
+		{
+			"name"	"c4_timer_light_held"
+		}
+		"c4_timer_light_trigger"
+		{
+			"name"	"c4_timer_light_trigger"
+		}
+		"c4_timer_light_trigger_child01"
+		{
+			"name"	"c4_timer_light_trigger_child01"
+		}
+		"c4_train_ground_effect"
+		{
+			"name"	"c4_train_ground_effect"
+		}
+		"c4_train_ground_effect_blast"
+		{
+			"name"	"c4_train_ground_effect_blast"
+		}
+		"c4_train_ground_fleks"
+		{
+			"name"	"c4_train_ground_fleks"
+		}
+		"c4_train_ground_glow_01"
+		{
+			"name"	"c4_train_ground_glow_01"
+		}
+		"c4_train_ground_glow_02"
+		{
+			"name"	"c4_train_ground_glow_02"
+		}
+		"c4_train_ground_low_02"
+		{
+			"name"	"c4_train_ground_low_02"
+		}
+		"c4_train_ground_low_03"
+		{
+			"name"	"c4_train_ground_low_03"
+		}
+		"c4_train_ground_primary_01"
+		{
+			"name"	"c4_train_ground_primary_01"
+		}
+		"c4_train_ground_smoke_01"
+		{
+			"name"	"c4_train_ground_smoke_01"
+		}
+		"expl_coopmission_gas_explosion_debris_parent"
+		{
+			"name"	"expl_coopmission_gas_explosion_debris_parent"
+		}
+		"expl_coopmission_gas_explosion_debris_trails"
+		{
+			"name"	"expl_coopmission_gas_explosion_debris_trails"
+		}
+		"expl_coopmission_gas_explosion_main"
+		{
+			"name"	"expl_coopmission_gas_explosion_main"
+		}
+		"expl_coopmission_skyboom"
+		{
+			"name"	"expl_coopmission_skyboom"
+		}
+		"expl_coopmission_skyboom_core"
+		{
+			"name"	"expl_coopmission_skyboom_core"
+		}
+		"expl_coopmission_skyboom_shrapnel"
+		{
+			"name"	"expl_coopmission_skyboom_shrapnel"
+		}
+		"expl_coopmission_skyboom_smk01"
+		{
+			"name"	"expl_coopmission_skyboom_smk01"
+		}
+		"expl_coopmission_skyboom_sparks01"
+		{
+			"name"	"expl_coopmission_skyboom_sparks01"
+		}
+		"expl_coopmission_skysmoke"
+		{
+			"name"	"expl_coopmission_skysmoke"
+		}
+		"explosion_basic"
+		{
+			"name"	"explosion_basic"
+		}
+		"explosion_basic_water"
+		{
+			"name"	"explosion_basic_water"
+		}
+		"explosion_c4_500"
+		{
+			"name"	"explosion_c4_500"
+		}
+		"explosion_c4_500_fallback"
+		{
+			"name"	"explosion_c4_500_fallback"
+		}
+		"explosion_child_clumps01a"
+		{
+			"name"	"explosion_child_clumps01a"
+		}
+		"explosion_child_clumps01b"
+		{
+			"name"	"explosion_child_clumps01b"
+		}
+		"explosion_child_clumps02a"
+		{
+			"name"	"explosion_child_clumps02a"
+		}
+		"explosion_child_clumps02b"
+		{
+			"name"	"explosion_child_clumps02b"
+		}
+		"explosion_child_clumps03a"
+		{
+			"name"	"explosion_child_clumps03a"
+		}
+		"explosion_child_core04b"
+		{
+			"name"	"explosion_child_core04b"
+		}
+		"explosion_child_core04c"
+		{
+			"name"	"explosion_child_core04c"
+		}
+		"explosion_child_core04c_1k"
+		{
+			"name"	"explosion_child_core04c_1k"
+		}
+		"explosion_child_core04e_1k"
+		{
+			"name"	"explosion_child_core04e_1k"
+		}
+		"explosion_child_core06a"
+		{
+			"name"	"explosion_child_core06a"
+		}
+		"explosion_child_core06b"
+		{
+			"name"	"explosion_child_core06b"
+		}
+		"explosion_child_core09b_1k"
+		{
+			"name"	"explosion_child_core09b_1k"
+		}
+		"explosion_child_distort01b"
+		{
+			"name"	"explosion_child_distort01b"
+		}
+		"explosion_child_distort01c"
+		{
+			"name"	"explosion_child_distort01c"
+		}
+		"explosion_child_distort01d_1k"
+		{
+			"name"	"explosion_child_distort01d_1k"
+		}
+		"explosion_child_dust03a"
+		{
+			"name"	"explosion_child_dust03a"
+		}
+		"explosion_child_dust04a"
+		{
+			"name"	"explosion_child_dust04a"
+		}
+		"explosion_child_dust04b"
+		{
+			"name"	"explosion_child_dust04b"
+		}
+		"explosion_child_dust06a"
+		{
+			"name"	"explosion_child_dust06a"
+		}
+		"explosion_child_dust07a"
+		{
+			"name"	"explosion_child_dust07a"
+		}
+		"explosion_child_dust09a"
+		{
+			"name"	"explosion_child_dust09a"
+		}
+		"explosion_child_dust09b"
+		{
+			"name"	"explosion_child_dust09b"
+		}
+		"explosion_child_dust10a"
+		{
+			"name"	"explosion_child_dust10a"
+		}
+		"explosion_child_flash01b"
+		{
+			"name"	"explosion_child_flash01b"
+		}
+		"explosion_child_flash02b"
+		{
+			"name"	"explosion_child_flash02b"
+		}
+		"explosion_child_flash02b_1k"
+		{
+			"name"	"explosion_child_flash02b_1k"
+		}
+		"explosion_child_flash03b_1k"
+		{
+			"name"	"explosion_child_flash03b_1k"
+		}
+		"explosion_child_shrapnel02e_1k"
+		{
+			"name"	"explosion_child_shrapnel02e_1k"
+		}
+		"explosion_child_shrapnel03a"
+		{
+			"name"	"explosion_child_shrapnel03a"
+		}
+		"explosion_child_smoke01h_1k"
+		{
+			"name"	"explosion_child_smoke01h_1k"
+		}
+		"explosion_child_smoke03b"
+		{
+			"name"	"explosion_child_smoke03b"
+		}
+		"explosion_child_smoke03c"
+		{
+			"name"	"explosion_child_smoke03c"
+		}
+		"explosion_child_smoke03d"
+		{
+			"name"	"explosion_child_smoke03d"
+		}
+		"explosion_child_smoke03d_ring"
+		{
+			"name"	"explosion_child_smoke03d_ring"
+		}
+		"explosion_child_smoke03d_ring_copy"
+		{
+			"name"	"explosion_child_smoke03d_ring_copy"
+		}
+		"explosion_child_smoke03e"
+		{
+			"name"	"explosion_child_smoke03e"
+		}
+		"explosion_child_child_smoke03f"
+		{
+			"name"	"explosion_child_child_smoke03f"
+		}
+		"explosion_child_smoke04c"
+		{
+			"name"	"explosion_child_smoke04c"
+		}
+		"explosion_child_smoke06a"
+		{
+			"name"	"explosion_child_smoke06a"
+		}
+		"explosion_child_smoke07b"
+		{
+			"name"	"explosion_child_smoke07b"
+		}
+		"explosion_child_smoke07c"
+		{
+			"name"	"explosion_child_smoke07c"
+		}
+		"explosion_child_smoke08a"
+		{
+			"name"	"explosion_child_smoke08a"
+		}
+		"explosion_child_smoke09a"
+		{
+			"name"	"explosion_child_smoke09a"
+		}
+		"explosion_child_smoke_bottom"
+		{
+			"name"	"explosion_child_smoke_bottom"
+		}
+		"explosion_child_snow03a"
+		{
+			"name"	"explosion_child_snow03a"
+		}
+		"explosion_child_snow04a"
+		{
+			"name"	"explosion_child_snow04a"
+		}
+		"explosion_child_snow04b"
+		{
+			"name"	"explosion_child_snow04b"
+		}
+		"explosion_child_snow06a"
+		{
+			"name"	"explosion_child_snow06a"
+		}
+		"explosion_child_snow07a"
+		{
+			"name"	"explosion_child_snow07a"
+		}
+		"explosion_child_snow08a"
+		{
+			"name"	"explosion_child_snow08a"
+		}
+		"explosion_child_snow09a"
+		{
+			"name"	"explosion_child_snow09a"
+		}
+		"explosion_child_snow09b"
+		{
+			"name"	"explosion_child_snow09b"
+		}
+		"explosion_child_snow10a"
+		{
+			"name"	"explosion_child_snow10a"
+		}
+		"explosion_child_snowclumps01a"
+		{
+			"name"	"explosion_child_snowclumps01a"
+		}
+		"explosion_child_snowclumps01b"
+		{
+			"name"	"explosion_child_snowclumps01b"
+		}
+		"explosion_child_snowclumps01c"
+		{
+			"name"	"explosion_child_snowclumps01c"
+		}
+		"explosion_child_snowcore06a"
+		{
+			"name"	"explosion_child_snowcore06a"
+		}
+		"explosion_child_sparks01"
+		{
+			"name"	"explosion_child_sparks01"
+		}
+		"explosion_child_water_core01a"
+		{
+			"name"	"explosion_child_water_core01a"
+		}
+		"explosion_child_water_foam"
+		{
+			"name"	"explosion_child_water_foam"
+		}
+		"explosion_child_water_mist02a"
+		{
+			"name"	"explosion_child_water_mist02a"
+		}
+		"explosion_child_water_rings01a"
+		{
+			"name"	"explosion_child_water_rings01a"
+		}
+		"explosion_child_water_rings01b"
+		{
+			"name"	"explosion_child_water_rings01b"
+		}
+		"explosion_child_water_rings01c"
+		{
+			"name"	"explosion_child_water_rings01c"
+		}
+		"explosion_child_water_splash01a"
+		{
+			"name"	"explosion_child_water_splash01a"
+		}
+		"explosion_child_water_splash02a"
+		{
+			"name"	"explosion_child_water_splash02a"
+		}
+		"explosion_child_water_splash03a"
+		{
+			"name"	"explosion_child_water_splash03a"
+		}
+		"explosion_child_water_splash03b"
+		{
+			"name"	"explosion_child_water_splash03b"
+		}
+		"explosion_child_water_splash04a"
+		{
+			"name"	"explosion_child_water_splash04a"
+		}
+		"explosion_child_water_splash05a"
+		{
+			"name"	"explosion_child_water_splash05a"
+		}
+		"explosion_child_water_splash06a"
+		{
+			"name"	"explosion_child_water_splash06a"
+		}
+		"explosion_child_water_splash07a"
+		{
+			"name"	"explosion_child_water_splash07a"
+		}
+		"explosion_coop_mission_c4"
+		{
+			"name"	"explosion_coop_mission_c4"
+		}
+		"explosion_coop_mission_core09b_1k"
+		{
+			"name"	"explosion_coop_mission_core09b_1k"
+		}
+		"explosion_coop_mission_shrapnel02e_1k"
+		{
+			"name"	"explosion_coop_mission_shrapnel02e_1k"
+		}
+		"explosion_coop_mission_smoke01h_1k"
+		{
+			"name"	"explosion_coop_mission_smoke01h_1k"
+		}
+		"explosion_hegrenade_brief"
+		{
+			"name"	"explosion_hegrenade_brief"
+		}
+		"explosion_hegrenade_dirt"
+		{
+			"name"	"explosion_hegrenade_dirt"
+		}
+		"explosion_hegrenade_dirt_fallback"
+		{
+			"name"	"explosion_hegrenade_dirt_fallback"
+		}
+		"explosion_hegrenade_dirt_fallback2"
+		{
+			"name"	"explosion_hegrenade_dirt_fallback2"
+		}
+		"explosion_hegrenade_interior"
+		{
+			"name"	"explosion_hegrenade_interior"
+		}
+		"explosion_hegrenade_interior_fallback"
+		{
+			"name"	"explosion_hegrenade_interior_fallback"
+		}
+		"explosion_hegrenade_snow"
+		{
+			"name"	"explosion_hegrenade_snow"
+		}
+		"explosion_hegrenade_snow_fallback"
+		{
+			"name"	"explosion_hegrenade_snow_fallback"
+		}
+		"explosion_hegrenade_snow_fallback2"
+		{
+			"name"	"explosion_hegrenade_snow_fallback2"
+		}
+		"explosion_hegrenade_water"
+		{
+			"name"	"explosion_hegrenade_water"
+		}
+		"explosion_hegrenade_water_fallback"
+		{
+			"name"	"explosion_hegrenade_water_fallback"
+		}
+		"explosion_screen_c4_blood"
+		{
+			"name"	"explosion_screen_c4_blood"
+		}
+		"explosion_screen_c4_blood2"
+		{
+			"name"	"explosion_screen_c4_blood2"
+		}
+		"explosion_screen_c4_blood_distance_culled"
+		{
+			"name"	"explosion_screen_c4_blood_distance_culled"
+		}
+		"explosion_screen_c4_blood_OLD"
+		{
+			"name"	"explosion_screen_c4_blood_OLD"
+		}
+		"explosion_screen_c4_fadeout"
+		{
+			"name"	"explosion_screen_c4_fadeout"
+		}
+		"explosion_screen_c4_fadeout_TEMP_PAX"
+		{
+			"name"	"explosion_screen_c4_fadeout_TEMP_PAX"
+		}
+		"explosion_screen_c4_red"
+		{
+			"name"	"explosion_screen_c4_red"
+		}
+		"explosion_screen_c4_red_distance_culled"
+		{
+			"name"	"explosion_screen_c4_red_distance_culled"
+		}
+		"explosion_screen_hegrenade_dirt"
+		{
+			"name"	"explosion_screen_hegrenade_dirt"
+		}
+		"explosion_screen_smokegrenade_new"
+		{
+			"name"	"explosion_screen_smokegrenade_new"
+		}
+		"explosion_smoke_disperse"
+		{
+			"name"	"explosion_smoke_disperse"
+		}
+		"explosion_smokegrenade"
+		{
+			"name"	"explosion_smokegrenade"
+		}
+		"explosion_smokegrenade_CT"
+		{
+			"name"	"explosion_smokegrenade_CT"
+		}
+		"explosion_smokegrenade_fallback"
+		{
+			"name"	"explosion_smokegrenade_fallback"
+		}
+		"explosion_smokegrenade_T"
+		{
+			"name"	"explosion_smokegrenade_T"
+		}
+		"molotov_child_flame02a"
+		{
+			"name"	"molotov_child_flame02a"
+		}
+		"screen_blood_splatter"
+		{
+			"name"	"screen_blood_splatter"
+		}
+		"screen_blood_splatter_a"
+		{
+			"name"	"screen_blood_splatter_a"
+		}
+		"screen_blood_splatter_b"
+		{
+			"name"	"screen_blood_splatter_b"
+		}
+	}
+	"footstep_fx.pcf"
+	{
+		"footstep_dirt"
+		{
+			"name"	"footstep_dirt"
+		}
+		"footstep_grass"
+		{
+			"name"	"footstep_grass"
+		}
+		"footstep_grass_b"
+		{
+			"name"	"footstep_grass_b"
+		}
+		"footstep_mud"
+		{
+			"name"	"footstep_mud"
+		}
+		"footstep_puddle"
+		{
+			"name"	"footstep_puddle"
+		}
+		"footstep_puddle_b"
+		{
+			"name"	"footstep_puddle_b"
+		}
+		"footstep_wet"
+		{
+			"name"	"footstep_wet"
+		}
+	}
+	"impact_fx.pcf"
+	{
+		"impact_asphalt"
+		{
+			"name"	"impact_asphalt"
+		}
+		"impact_asphalt_cheap"
+		{
+			"name"	"impact_asphalt_cheap"
+		}
+		"impact_asphalt_cheap2"
+		{
+			"name"	"impact_asphalt_cheap2"
+		}
+		"impact_asphalt_child_base"
+		{
+			"name"	"impact_asphalt_child_base"
+		}
+		"impact_asphalt_child_burst"
+		{
+			"name"	"impact_asphalt_child_burst"
+		}
+		"impact_brick"
+		{
+			"name"	"impact_brick"
+		}
+		"impact_brick_cheap"
+		{
+			"name"	"impact_brick_cheap"
+		}
+		"impact_brick_child_base"
+		{
+			"name"	"impact_brick_child_base"
+		}
+		"impact_cardboard"
+		{
+			"name"	"impact_cardboard"
+		}
+		"impact_cardboard_cheap"
+		{
+			"name"	"impact_cardboard_cheap"
+		}
+		"impact_cardboard_child_base"
+		{
+			"name"	"impact_cardboard_child_base"
+		}
+		"impact_cloth"
+		{
+			"name"	"impact_cloth"
+		}
+		"impact_cloth_cheap"
+		{
+			"name"	"impact_cloth_cheap"
+		}
+		"impact_computer"
+		{
+			"name"	"impact_computer"
+		}
+		"impact_computer_cheap"
+		{
+			"name"	"impact_computer_cheap"
+		}
+		"impact_concrete"
+		{
+			"name"	"impact_concrete"
+		}
+		"impact_concrete_cheap"
+		{
+			"name"	"impact_concrete_cheap"
+		}
+		"impact_concrete_child_base"
+		{
+			"name"	"impact_concrete_child_base"
+		}
+		"impact_concrete_child_smoke"
+		{
+			"name"	"impact_concrete_child_smoke"
+		}
+		"impact_dirt"
+		{
+			"name"	"impact_dirt"
+		}
+		"impact_dirt_cheap"
+		{
+			"name"	"impact_dirt_cheap"
+		}
+		"impact_dirt_child_base"
+		{
+			"name"	"impact_dirt_child_base"
+		}
+		"impact_dirt_child_clumps"
+		{
+			"name"	"impact_dirt_child_clumps"
+		}
+		"impact_dirt_child_smoke_puff"
+		{
+			"name"	"impact_dirt_child_smoke_puff"
+		}
+		"impact_electronic"
+		{
+			"name"	"impact_electronic"
+		}
+		"impact_electronic_cheap"
+		{
+			"name"	"impact_electronic_cheap"
+		}
+		"impact_electronic_smoke"
+		{
+			"name"	"impact_electronic_smoke"
+		}
+		"impact_empty"
+		{
+			"name"	"impact_empty"
+		}
+		"impact_generic_burn"
+		{
+			"name"	"impact_generic_burn"
+		}
+		"impact_generic_burst"
+		{
+			"name"	"impact_generic_burst"
+		}
+		"impact_generic_burst_1"
+		{
+			"name"	"impact_generic_burst_1"
+		}
+		"impact_generic_burst_2"
+		{
+			"name"	"impact_generic_burst_2"
+		}
+		"impact_generic_burst_3"
+		{
+			"name"	"impact_generic_burst_3"
+		}
+		"impact_generic_smoke_large"
+		{
+			"name"	"impact_generic_smoke_large"
+		}
+		"impact_generic_smoke_medium"
+		{
+			"name"	"impact_generic_smoke_medium"
+		}
+		"impact_generic_smoke_small"
+		{
+			"name"	"impact_generic_smoke_small"
+		}
+		"impact_glass"
+		{
+			"name"	"impact_glass"
+		}
+		"impact_glass_cheap"
+		{
+			"name"	"impact_glass_cheap"
+		}
+		"impact_glass_child_base"
+		{
+			"name"	"impact_glass_child_base"
+		}
+		"impact_glass_child_bits"
+		{
+			"name"	"impact_glass_child_bits"
+		}
+		"impact_grass"
+		{
+			"name"	"impact_grass"
+		}
+		"impact_grass_cheap"
+		{
+			"name"	"impact_grass_cheap"
+		}
+		"impact_grass_child_base"
+		{
+			"name"	"impact_grass_child_base"
+		}
+		"impact_grass_child_blases"
+		{
+			"name"	"impact_grass_child_blases"
+		}
+		"impact_grass_child_burst"
+		{
+			"name"	"impact_grass_child_burst"
+		}
+		"impact_grass_child_clumps"
+		{
+			"name"	"impact_grass_child_clumps"
+		}
+		"impact_helmet_headshot"
+		{
+			"name"	"impact_helmet_headshot"
+		}
+		"impact_helmet_headshot_glow"
+		{
+			"name"	"impact_helmet_headshot_glow"
+		}
+		"impact_helmet_headshot_spark"
+		{
+			"name"	"impact_helmet_headshot_spark"
+		}
+		"impact_leaves"
+		{
+			"name"	"impact_leaves"
+		}
+		"impact_leaves_cheap"
+		{
+			"name"	"impact_leaves_cheap"
+		}
+		"impact_leaves_cheap2"
+		{
+			"name"	"impact_leaves_cheap2"
+		}
+		"impact_leaves_child_base"
+		{
+			"name"	"impact_leaves_child_base"
+		}
+		"impact_leaves_child_bits"
+		{
+			"name"	"impact_leaves_child_bits"
+		}
+		"impact_metal"
+		{
+			"name"	"impact_metal"
+		}
+		"impact_metal_cheap"
+		{
+			"name"	"impact_metal_cheap"
+		}
+		"impact_metal_child_base"
+		{
+			"name"	"impact_metal_child_base"
+		}
+		"impact_metal_child_glow"
+		{
+			"name"	"impact_metal_child_glow"
+		}
+		"impact_metal_child_glow2"
+		{
+			"name"	"impact_metal_child_glow2"
+		}
+		"impact_metal_child_smoke"
+		{
+			"name"	"impact_metal_child_smoke"
+		}
+		"impact_metal_sparks_trailing"
+		{
+			"name"	"impact_metal_sparks_trailing"
+		}
+		"impact_mud"
+		{
+			"name"	"impact_mud"
+		}
+		"impact_mud_cheap"
+		{
+			"name"	"impact_mud_cheap"
+		}
+		"impact_paper"
+		{
+			"name"	"impact_paper"
+		}
+		"impact_paper_cheap"
+		{
+			"name"	"impact_paper_cheap"
+		}
+		"impact_physics_dust"
+		{
+			"name"	"impact_physics_dust"
+		}
+		"impact_physics_sparks"
+		{
+			"name"	"impact_physics_sparks"
+		}
+		"impact_physics_sparks_glow"
+		{
+			"name"	"impact_physics_sparks_glow"
+		}
+		"impact_plaster"
+		{
+			"name"	"impact_plaster"
+		}
+		"impact_plaster_cheap"
+		{
+			"name"	"impact_plaster_cheap"
+		}
+		"impact_plaster_child_base"
+		{
+			"name"	"impact_plaster_child_base"
+		}
+		"impact_plaster_child_bits"
+		{
+			"name"	"impact_plaster_child_bits"
+		}
+		"impact_plastic"
+		{
+			"name"	"impact_plastic"
+		}
+		"impact_plastic_cheap"
+		{
+			"name"	"impact_plastic_cheap"
+		}
+		"impact_puddle"
+		{
+			"name"	"impact_puddle"
+		}
+		"impact_puddle_cheap"
+		{
+			"name"	"impact_puddle_cheap"
+		}
+		"impact_puddle_ring"
+		{
+			"name"	"impact_puddle_ring"
+		}
+		"impact_ricochet"
+		{
+			"name"	"impact_ricochet"
+		}
+		"impact_ricochet_sparks"
+		{
+			"name"	"impact_ricochet_sparks"
+		}
+		"impact_rock"
+		{
+			"name"	"impact_rock"
+		}
+		"impact_rock_cheap"
+		{
+			"name"	"impact_rock_cheap"
+		}
+		"impact_rock_child_base"
+		{
+			"name"	"impact_rock_child_base"
+		}
+		"impact_rubber"
+		{
+			"name"	"impact_rubber"
+		}
+		"impact_rubber_cheap"
+		{
+			"name"	"impact_rubber_cheap"
+		}
+		"impact_rubber_child_base"
+		{
+			"name"	"impact_rubber_child_base"
+		}
+		"impact_sand"
+		{
+			"name"	"impact_sand"
+		}
+		"impact_sand_barrel"
+		{
+			"name"	"impact_sand_barrel"
+		}
+		"impact_sand_cheap"
+		{
+			"name"	"impact_sand_cheap"
+		}
+		"impact_sand_child_base"
+		{
+			"name"	"impact_sand_child_base"
+		}
+		"impact_sand_child_bounce"
+		{
+			"name"	"impact_sand_child_bounce"
+		}
+		"impact_sand_child_burst"
+		{
+			"name"	"impact_sand_child_burst"
+		}
+		"impact_sand_child_burst2"
+		{
+			"name"	"impact_sand_child_burst2"
+		}
+		"impact_sandbarrel"
+		{
+			"name"	"impact_sandbarrel"
+		}
+		"impact_sandbarrel_cheap"
+		{
+			"name"	"impact_sandbarrel_cheap"
+		}
+		"impact_sandbarrel_sand"
+		{
+			"name"	"impact_sandbarrel_sand"
+		}
+		"impact_screen_smoke_large"
+		{
+			"name"	"impact_screen_smoke_large"
+		}
+		"impact_screen_smoke_medium"
+		{
+			"name"	"impact_screen_smoke_medium"
+		}
+		"impact_screen_smoke_small"
+		{
+			"name"	"impact_screen_smoke_small"
+		}
+		"impact_screen_smoke_snow"
+		{
+			"name"	"impact_screen_smoke_snow"
+		}
+		"impact_sheetrock"
+		{
+			"name"	"impact_sheetrock"
+		}
+		"impact_sheetrock_cheap"
+		{
+			"name"	"impact_sheetrock_cheap"
+		}
+		"impact_sheetrock_child_base"
+		{
+			"name"	"impact_sheetrock_child_base"
+		}
+		"impact_sheetrock_child_bits"
+		{
+			"name"	"impact_sheetrock_child_bits"
+		}
+		"impact_sheetrock_child_bits2"
+		{
+			"name"	"impact_sheetrock_child_bits2"
+		}
+		"impact_snow"
+		{
+			"name"	"impact_snow"
+		}
+		"impact_snow_cheap"
+		{
+			"name"	"impact_snow_cheap"
+		}
+		"impact_snow_cheap2"
+		{
+			"name"	"impact_snow_cheap2"
+		}
+		"impact_snow_child_base"
+		{
+			"name"	"impact_snow_child_base"
+		}
+		"impact_snow_child_bounce"
+		{
+			"name"	"impact_snow_child_bounce"
+		}
+		"impact_snow_child_smoke"
+		{
+			"name"	"impact_snow_child_smoke"
+		}
+		"impact_snow_child_smoke_puff"
+		{
+			"name"	"impact_snow_child_smoke_puff"
+		}
+		"impact_spark_glow_lighter"
+		{
+			"name"	"impact_spark_glow_lighter"
+		}
+		"impact_spark_glow_lighter_tiny"
+		{
+			"name"	"impact_spark_glow_lighter_tiny"
+		}
+		"impact_spark_glow_soft"
+		{
+			"name"	"impact_spark_glow_soft"
+		}
+		"impact_spark_glow_soft_parent"
+		{
+			"name"	"impact_spark_glow_soft_parent"
+		}
+		"impact_spark_spray"
+		{
+			"name"	"impact_spark_spray"
+		}
+		"impact_spark_spray_forward"
+		{
+			"name"	"impact_spark_spray_forward"
+		}
+		"impact_spark_spray_large"
+		{
+			"name"	"impact_spark_spray_large"
+		}
+		"impact_spark_spray_small"
+		{
+			"name"	"impact_spark_spray_small"
+		}
+		"impact_tile"
+		{
+			"name"	"impact_tile"
+		}
+		"impact_tile_cheap"
+		{
+			"name"	"impact_tile_cheap"
+		}
+		"impact_tile_cheap2"
+		{
+			"name"	"impact_tile_cheap2"
+		}
+		"impact_tile_child_base"
+		{
+			"name"	"impact_tile_child_base"
+		}
+		"impact_tile_child_smoke"
+		{
+			"name"	"impact_tile_child_smoke"
+		}
+		"impact_upholstery"
+		{
+			"name"	"impact_upholstery"
+		}
+		"impact_upholstery_cheap"
+		{
+			"name"	"impact_upholstery_cheap"
+		}
+		"impact_upholstery_cheap2"
+		{
+			"name"	"impact_upholstery_cheap2"
+		}
+		"impact_upholstery_child_base"
+		{
+			"name"	"impact_upholstery_child_base"
+		}
+		"impact_upholstery_child_burn"
+		{
+			"name"	"impact_upholstery_child_burn"
+		}
+		"impact_upholstery_child_burst"
+		{
+			"name"	"impact_upholstery_child_burst"
+		}
+		"impact_wallbang_heavy"
+		{
+			"name"	"impact_wallbang_heavy"
+		}
+		"impact_wallbang_light"
+		{
+			"name"	"impact_wallbang_light"
+		}
+		"impact_water"
+		{
+			"name"	"impact_water"
+		}
+		"impact_water_cheap"
+		{
+			"name"	"impact_water_cheap"
+		}
+		"impact_water_cheap_2"
+		{
+			"name"	"impact_water_cheap_2"
+		}
+		"impact_water_child_base"
+		{
+			"name"	"impact_water_child_base"
+		}
+		"impact_water_child_bits"
+		{
+			"name"	"impact_water_child_bits"
+		}
+		"impact_water_child_froth"
+		{
+			"name"	"impact_water_child_froth"
+		}
+		"impact_water_child_refract"
+		{
+			"name"	"impact_water_child_refract"
+		}
+		"impact_water_child_rings"
+		{
+			"name"	"impact_water_child_rings"
+		}
+		"impact_water_child_smallrings"
+		{
+			"name"	"impact_water_child_smallrings"
+		}
+		"impact_water_child_splash"
+		{
+			"name"	"impact_water_child_splash"
+		}
+		"impact_wet"
+		{
+			"name"	"impact_wet"
+		}
+		"impact_wet_cheap"
+		{
+			"name"	"impact_wet_cheap"
+		}
+		"impact_wet_cheap2"
+		{
+			"name"	"impact_wet_cheap2"
+		}
+		"impact_wet_child_splash"
+		{
+			"name"	"impact_wet_child_splash"
+		}
+		"impact_wood"
+		{
+			"name"	"impact_wood"
+		}
+		"impact_wood_cheap"
+		{
+			"name"	"impact_wood_cheap"
+		}
+		"impact_wood_child_base"
+		{
+			"name"	"impact_wood_child_base"
+		}
+		"impact_wood_child_burn"
+		{
+			"name"	"impact_wood_child_burn"
+		}
+		"impact_wood_child_burst"
+		{
+			"name"	"impact_wood_child_burst"
+		}
+		"impact_wood_child_chunks"
+		{
+			"name"	"impact_wood_child_chunks"
+		}
+		"ricochet_sparks"
+		{
+			"name"	"ricochet_sparks"
+		}
+		"ricochet_sparks_contrast_glow"
+		{
+			"name"	"ricochet_sparks_contrast_glow"
+		}
+		"ricochet_sparks_contrast_glow_soft"
+		{
+			"name"	"ricochet_sparks_contrast_glow_soft"
+		}
+		"ricochet_sparks_contrast_shadow"
+		{
+			"name"	"ricochet_sparks_contrast_shadow"
+		}
+	}
+	"inferno_fx.pcf"
+	{
+		"explosion_molotov_air"
+		{
+			"name"	"explosion_molotov_air"
+		}
+		"explosion_molotov_air_core"
+		{
+			"name"	"explosion_molotov_air_core"
+		}
+		"explosion_molotov_air_down"
+		{
+			"name"	"explosion_molotov_air_down"
+		}
+		"explosion_molotov_air_smoke"
+		{
+			"name"	"explosion_molotov_air_smoke"
+		}
+		"explosion_molotov_air_splash01a"
+		{
+			"name"	"explosion_molotov_air_splash01a"
+		}
+		"explosion_molotov_air_splash07a"
+		{
+			"name"	"explosion_molotov_air_splash07a"
+		}
+		"extinguish_embers_small_01"
+		{
+			"name"	"extinguish_embers_small_01"
+		}
+		"extinguish_embers_small_02"
+		{
+			"name"	"extinguish_embers_small_02"
+		}
+		"extinguish_fire"
+		{
+			"name"	"extinguish_fire"
+		}
+		"extinguish_fire_swirl"
+		{
+			"name"	"extinguish_fire_swirl"
+		}
+		"extinguish_fire_swirl_smoke"
+		{
+			"name"	"extinguish_fire_swirl_smoke"
+		}
+		"extinsguish_fire_blastout_01"
+		{
+			"name"	"extinsguish_fire_blastout_01"
+		}
+		"firework_crate_explosion_01"
+		{
+			"name"	"firework_crate_explosion_01"
+		}
+		"firework_crate_explosion_02"
+		{
+			"name"	"firework_crate_explosion_02"
+		}
+		"firework_crate_ground_effect"
+		{
+			"name"	"firework_crate_ground_effect"
+		}
+		"firework_crate_ground_effect_fallback1"
+		{
+			"name"	"firework_crate_ground_effect_fallback1"
+		}
+		"firework_crate_ground_effect_fallback2"
+		{
+			"name"	"firework_crate_ground_effect_fallback2"
+		}
+		"firework_crate_ground_embers_01"
+		{
+			"name"	"firework_crate_ground_embers_01"
+		}
+		"firework_crate_ground_glow_01"
+		{
+			"name"	"firework_crate_ground_glow_01"
+		}
+		"firework_crate_ground_glow_02"
+		{
+			"name"	"firework_crate_ground_glow_02"
+		}
+		"firework_crate_ground_low_02"
+		{
+			"name"	"firework_crate_ground_low_02"
+		}
+		"firework_crate_ground_low_02_fallback"
+		{
+			"name"	"firework_crate_ground_low_02_fallback"
+		}
+		"firework_crate_ground_low_03"
+		{
+			"name"	"firework_crate_ground_low_03"
+		}
+		"firework_crate_ground_low_04"
+		{
+			"name"	"firework_crate_ground_low_04"
+		}
+		"firework_crate_ground_primary_01"
+		{
+			"name"	"firework_crate_ground_primary_01"
+		}
+		"firework_crate_ground_primary_01_fallback"
+		{
+			"name"	"firework_crate_ground_primary_01_fallback"
+		}
+		"firework_crate_ground_smoke_01"
+		{
+			"name"	"firework_crate_ground_smoke_01"
+		}
+		"firework_crate_ground_sparks_01"
+		{
+			"name"	"firework_crate_ground_sparks_01"
+		}
+		"firework_crate_shower_01b"
+		{
+			"name"	"firework_crate_shower_01b"
+		}
+		"fireworks_explosion_glow_03"
+		{
+			"name"	"fireworks_explosion_glow_03"
+		}
+		"fireworks_explosion_trail_04"
+		{
+			"name"	"fireworks_explosion_trail_04"
+		}
+		"fireworks_explosion_trail_04b"
+		{
+			"name"	"fireworks_explosion_trail_04b"
+		}
+		"incgrenade_thrown_trail"
+		{
+			"name"	"incgrenade_thrown_trail"
+		}
+		"incgrenade_thrown_trail_glow"
+		{
+			"name"	"incgrenade_thrown_trail_glow"
+		}
+		"molotov_child_flame01a"
+		{
+			"name"	"molotov_child_flame01a"
+		}
+		"molotov_child_flame01b"
+		{
+			"name"	"molotov_child_flame01b"
+		}
+		"molotov_child_flame01c"
+		{
+			"name"	"molotov_child_flame01c"
+		}
+		"molotov_child_flame02a"
+		{
+			"name"	"molotov_child_flame02a"
+		}
+		"molotov_child_flame02b"
+		{
+			"name"	"molotov_child_flame02b"
+		}
+		"molotov_child_flame02c"
+		{
+			"name"	"molotov_child_flame02c"
+		}
+		"molotov_child_flame03a"
+		{
+			"name"	"molotov_child_flame03a"
+		}
+		"molotov_child_flame03b"
+		{
+			"name"	"molotov_child_flame03b"
+		}
+		"molotov_child_flame03c"
+		{
+			"name"	"molotov_child_flame03c"
+		}
+		"molotov_child_flame04a"
+		{
+			"name"	"molotov_child_flame04a"
+		}
+		"molotov_child_flame04c"
+		{
+			"name"	"molotov_child_flame04c"
+		}
+		"molotov_child_flame05a"
+		{
+			"name"	"molotov_child_flame05a"
+		}
+		"molotov_child_glow01a"
+		{
+			"name"	"molotov_child_glow01a"
+		}
+		"molotov_child_glow01b"
+		{
+			"name"	"molotov_child_glow01b"
+		}
+		"molotov_child_glow02a"
+		{
+			"name"	"molotov_child_glow02a"
+		}
+		"molotov_child_glow02b"
+		{
+			"name"	"molotov_child_glow02b"
+		}
+		"molotov_child_glow03"
+		{
+			"name"	"molotov_child_glow03"
+		}
+		"molotov_explosion"
+		{
+			"name"	"molotov_explosion"
+		}
+		"molotov_explosion_child_fireball1"
+		{
+			"name"	"molotov_explosion_child_fireball1"
+		}
+		"molotov_explosion_child_fireball2"
+		{
+			"name"	"molotov_explosion_child_fireball2"
+		}
+		"molotov_explosion_child_fireball3"
+		{
+			"name"	"molotov_explosion_child_fireball3"
+		}
+		"molotov_explosion_child_fireball4"
+		{
+			"name"	"molotov_explosion_child_fireball4"
+		}
+		"molotov_explosion_child_flash"
+		{
+			"name"	"molotov_explosion_child_flash"
+		}
+		"molotov_explosion_child_ground1"
+		{
+			"name"	"molotov_explosion_child_ground1"
+		}
+		"molotov_explosion_child_ground2"
+		{
+			"name"	"molotov_explosion_child_ground2"
+		}
+		"molotov_fire01"
+		{
+			"name"	"molotov_fire01"
+		}
+		"molotov_fire01_cheap"
+		{
+			"name"	"molotov_fire01_cheap"
+		}
+		"molotov_groundfire"
+		{
+			"name"	"molotov_groundfire"
+		}
+		"molotov_groundfire_00HIGH"
+		{
+			"name"	"molotov_groundfire_00HIGH"
+		}
+		"molotov_groundfire_00MEDIUM"
+		{
+			"name"	"molotov_groundfire_00MEDIUM"
+		}
+		"molotov_groundfire_child_base"
+		{
+			"name"	"molotov_groundfire_child_base"
+		}
+		"molotov_groundfire_child_base8"
+		{
+			"name"	"molotov_groundfire_child_base8"
+		}
+		"molotov_groundfire_child_embers"
+		{
+			"name"	"molotov_groundfire_child_embers"
+		}
+		"molotov_groundfire_child_glow"
+		{
+			"name"	"molotov_groundfire_child_glow"
+		}
+		"molotov_groundfire_child_glow2"
+		{
+			"name"	"molotov_groundfire_child_glow2"
+		}
+		"molotov_groundfire_child_glow2_child"
+		{
+			"name"	"molotov_groundfire_child_glow2_child"
+		}
+		"molotov_groundfire_fallback"
+		{
+			"name"	"molotov_groundfire_fallback"
+		}
+		"molotov_groundfire_fallback2"
+		{
+			"name"	"molotov_groundfire_fallback2"
+		}
+		"molotov_groundfire_main"
+		{
+			"name"	"molotov_groundfire_main"
+		}
+		"molotov_groundfire_main_center"
+		{
+			"name"	"molotov_groundfire_main_center"
+		}
+		"molotov_groundfire_main_fancy"
+		{
+			"name"	"molotov_groundfire_main_fancy"
+		}
+		"molotov_groundfire_main_glow"
+		{
+			"name"	"molotov_groundfire_main_glow"
+		}
+		"molotov_smoke_screen"
+		{
+			"name"	"molotov_smoke_screen"
+		}
+		"molotov_smoking_ground_child01"
+		{
+			"name"	"molotov_smoking_ground_child01"
+		}
+		"molotov_smoking_ground_child02"
+		{
+			"name"	"molotov_smoking_ground_child02"
+		}
+		"molotov_smoking_ground_child02_cheapo"
+		{
+			"name"	"molotov_smoking_ground_child02_cheapo"
+		}
+		"molotov_smoking_ground_child03"
+		{
+			"name"	"molotov_smoking_ground_child03"
+		}
+		"molotov_smoking_ground_child03_cheapo"
+		{
+			"name"	"molotov_smoking_ground_child03_cheapo"
+		}
+	}
+	"lighting.pcf"
+	{
+		"light_gaslamp_glow"
+		{
+			"name"	"light_gaslamp_glow"
+		}
+	}
+	"overhead_icon.pcf"
+	{
+		"radio_voice"
+		{
+			"name"	"radio_voice"
+		}
+		"radio_voice_flash"
+		{
+			"name"	"radio_voice_flash"
+		}
+		"speech_voice"
+		{
+			"name"	"speech_voice"
+		}
+		"speech_voice_bubble"
+		{
+			"name"	"speech_voice_bubble"
+		}
+	}
+	"rain_fx.pcf"
+	{
+		"ash"
+		{
+			"name"	"ash"
+		}
+		"ash_burning"
+		{
+			"name"	"ash_burning"
+		}
+		"ash_burning_fire"
+		{
+			"name"	"ash_burning_fire"
+		}
+		"ash_eddy"
+		{
+			"name"	"ash_eddy"
+		}
+		"ash_eddy_b"
+		{
+			"name"	"ash_eddy_b"
+		}
+		"ash_outer"
+		{
+			"name"	"ash_outer"
+		}
+		"rain"
+		{
+			"name"	"rain"
+		}
+		"rain_impact_03"
+		{
+			"name"	"rain_impact_03"
+		}
+		"rain_impact_04"
+		{
+			"name"	"rain_impact_04"
+		}
+		"raim_impact_single"
+		{
+			"name"	"raim_impact_single"
+		}
+		"rain_mist"
+		{
+			"name"	"rain_mist"
+		}
+		"rain_mist_02"
+		{
+			"name"	"rain_mist_02"
+		}
+		"rain_outer"
+		{
+			"name"	"rain_outer"
+		}
+		"rain_outer_BACKUP"
+		{
+			"name"	"rain_outer_BACKUP"
+		}
+		"rain_outer_mist"
+		{
+			"name"	"rain_outer_mist"
+		}
+		"rain_puddle_ripples"
+		{
+			"name"	"rain_puddle_ripples"
+		}
+		"rain_puddle_ripples_large"
+		{
+			"name"	"rain_puddle_ripples_large"
+		}
+		"rain_puddle_ripples_small"
+		{
+			"name"	"rain_puddle_ripples_small"
+		}
+		"rain_sheet"
+		{
+			"name"	"rain_sheet"
+		}
+		"rain_sheet_mist"
+		{
+			"name"	"rain_sheet_mist"
+		}
+		"rain_single_128"
+		{
+			"name"	"rain_single_128"
+		}
+		"rain_spot"
+		{
+			"name"	"rain_spot"
+		}
+		"rain_storm"
+		{
+			"name"	"rain_storm"
+		}
+		"rain_storm_impact_04"
+		{
+			"name"	"rain_storm_impact_04"
+		}
+		"rain_storm_impact_04b"
+		{
+			"name"	"rain_storm_impact_04b"
+		}
+		"rain_storm_leaves"
+		{
+			"name"	"rain_storm_leaves"
+		}
+		"rain_storm_outer"
+		{
+			"name"	"rain_storm_outer"
+		}
+		"rain_storm_screen"
+		{
+			"name"	"rain_storm_screen"
+		}
+		"rain_stream_01_impact"
+		{
+			"name"	"rain_stream_01_impact"
+		}
+		"rain_stream_01_impact_2"
+		{
+			"name"	"rain_stream_01_impact_2"
+		}
+		"rain_stream_01_impact_3"
+		{
+			"name"	"rain_stream_01_impact_3"
+		}
+		"rain_stream_04_impact_1"
+		{
+			"name"	"rain_stream_04_impact_1"
+		}
+		"rain_stream_04_impact_2"
+		{
+			"name"	"rain_stream_04_impact_2"
+		}
+		"snow"
+		{
+			"name"	"snow"
+		}
+		"snow_drift"
+		{
+			"name"	"snow_drift"
+		}
+		"snow_outer"
+		{
+			"name"	"snow_outer"
+		}
+		"storm_cloud_lightning"
+		{
+			"name"	"storm_cloud_lightning"
+		}
+		"storm_cloud_parent"
+		{
+			"name"	"storm_cloud_parent"
+		}
+		"storm_lightning_01"
+		{
+			"name"	"storm_lightning_01"
+		}
+		"storm_lightning_01_branch_01"
+		{
+			"name"	"storm_lightning_01_branch_01"
+		}
+		"storm_lightning_01_branch_02"
+		{
+			"name"	"storm_lightning_01_branch_02"
+		}
+		"storm_lightning_01_branch_03"
+		{
+			"name"	"storm_lightning_01_branch_03"
+		}
+		"storm_lightning_01_branch_parent_01"
+		{
+			"name"	"storm_lightning_01_branch_parent_01"
+		}
+		"storm_lightning_01_branch_parent_02"
+		{
+			"name"	"storm_lightning_01_branch_parent_02"
+		}
+		"storm_lightning_01_branch_parent_03"
+		{
+			"name"	"storm_lightning_01_branch_parent_03"
+		}
+		"storm_lightning_01_cloud"
+		{
+			"name"	"storm_lightning_01_cloud"
+		}
+		"storm_lightning_01_glow"
+		{
+			"name"	"storm_lightning_01_glow"
+		}
+		"storm_lightning_01_modglow"
+		{
+			"name"	"storm_lightning_01_modglow"
+		}
+		"storm_lightning_01_thin"
+		{
+			"name"	"storm_lightning_01_thin"
+		}
+	}
+	"screen_fx.pcf"
+	{
+		"ar_screenglow_ct"
+		{
+			"name"	"ar_screenglow_ct"
+		}
+		"ar_screenglow_leader"
+		{
+			"name"	"ar_screenglow_leader"
+		}
+		"ar_screenglow_leader_red"
+		{
+			"name"	"ar_screenglow_leader_red"
+		}
+		"ar_screenglow_loop_ct"
+		{
+			"name"	"ar_screenglow_loop_ct"
+		}
+		"ar_screenglow_loop_leader"
+		{
+			"name"	"ar_screenglow_loop_leader"
+		}
+		"ar_screenglow_loop_leader_red"
+		{
+			"name"	"ar_screenglow_loop_leader_red"
+		}
+		"ar_screenglow_loop_t"
+		{
+			"name"	"ar_screenglow_loop_t"
+		}
+		"ar_screenglow_t"
+		{
+			"name"	"ar_screenglow_t"
+		}
+	}
+	"water_impact.pcf"
+	{
+		"boat_foam"
+		{
+			"name"	"boat_foam"
+		}
+		"boat_foam_small"
+		{
+			"name"	"boat_foam_small"
+		}
+		"slime_splash_01"
+		{
+			"name"	"slime_splash_01"
+		}
+		"slime_splash_01_droplets"
+		{
+			"name"	"slime_splash_01_droplets"
+		}
+		"slime_splash_01_reversed"
+		{
+			"name"	"slime_splash_01_reversed"
+		}
+		"slime_splash_01_surface"
+		{
+			"name"	"slime_splash_01_surface"
+		}
+		"slime_splash_02"
+		{
+			"name"	"slime_splash_02"
+		}
+		"slime_splash_03"
+		{
+			"name"	"slime_splash_03"
+		}
+		"water_bubble_ambient_1"
+		{
+			"name"	"water_bubble_ambient_1"
+		}
+		"water_bubble_trail_1"
+		{
+			"name"	"water_bubble_trail_1"
+		}
+		"water_foam_01c"
+		{
+			"name"	"water_foam_01c"
+		}
+		"water_foam_01d"
+		{
+			"name"	"water_foam_01d"
+		}
+		"water_foam_line_longb"
+		{
+			"name"	"water_foam_line_longb"
+		}
+		"water_foam_line_longc"
+		{
+			"name"	"water_foam_line_longc"
+		}
+		"water_foam_line_shortb"
+		{
+			"name"	"water_foam_line_shortb"
+		}
+		"water_foam_line_shortc"
+		{
+			"name"	"water_foam_line_shortc"
+		}
+		"water_gunk_1"
+		{
+			"name"	"water_gunk_1"
+		}
+		"water_impact_bubbles_1"
+		{
+			"name"	"water_impact_bubbles_1"
+		}
+		"water_impact_bubbles_1b"
+		{
+			"name"	"water_impact_bubbles_1b"
+		}
+		"water_impact_bubbles_1c"
+		{
+			"name"	"water_impact_bubbles_1c"
+		}
+		"water_splash_01"
+		{
+			"name"	"water_splash_01"
+		}
+		"water_splash_01_droplets"
+		{
+			"name"	"water_splash_01_droplets"
+		}
+		"water_splash_01_surface2"
+		{
+			"name"	"water_splash_01_surface2"
+		}
+		"water_splash_01_surface3"
+		{
+			"name"	"water_splash_01_surface3"
+		}
+		"water_splash_01_surface4"
+		{
+			"name"	"water_splash_01_surface4"
+		}
+		"water_splash_02"
+		{
+			"name"	"water_splash_02"
+		}
+		"water_splash_02_continuous"
+		{
+			"name"	"water_splash_02_continuous"
+		}
+		"water_splash_02_droplets"
+		{
+			"name"	"water_splash_02_droplets"
+		}
+		"water_splash_02_droplets Version #2"
+		{
+			"name"	"water_splash_02_droplets Version #2"
+		}
+		"water_splash_02_froth"
+		{
+			"name"	"water_splash_02_froth"
+		}
+		"water_splash_02_froth2"
+		{
+			"name"	"water_splash_02_froth2"
+		}
+		"water_splash_02_surface2"
+		{
+			"name"	"water_splash_02_surface2"
+		}
+		"water_splash_02_vertical"
+		{
+			"name"	"water_splash_02_vertical"
+		}
+		"water_splash_03"
+		{
+			"name"	"water_splash_03"
+		}
+		"water_splash_leakypipe_silo"
+		{
+			"name"	"water_splash_leakypipe_silo"
+		}
+		"water_splash_leakypipe_silo_froth2"
+		{
+			"name"	"water_splash_leakypipe_silo_froth2"
+		}
+		"water_splash_leakypipe_vertical"
+		{
+			"name"	"water_splash_leakypipe_vertical"
+		}
+	}
+	"chicken.pcf"
+	{
+		"chicken_crumble_death"
+		{
+			"name"	"chicken_crumble_death"
+		}
+		"chicken_crumble_dust"
+		{
+			"name"	"chicken_crumble_dust"
+		}
+		"chicken_gone"
+		{
+			"name"	"chicken_gone"
+		}
+		"chicken_gone_cheaper"
+		{
+			"name"	"chicken_gone_cheaper"
+		}
+		"chicken_gone_cheapest"
+		{
+			"name"	"chicken_gone_cheapest"
+		}
+		"chicken_gone_crumble_halloween"
+		{
+			"name"	"chicken_gone_crumble_halloween"
+		}
+		"chicken_gone_feathers"
+		{
+			"name"	"chicken_gone_feathers"
+		}
+		"chicken_gone_feathers_cheapesr"
+		{
+			"name"	"chicken_gone_feathers_cheapesr"
+		}
+		"chicken_gone_feathers_zombie"
+		{
+			"name"	"chicken_gone_feathers_zombie"
+		}
+		"chicken_gone_fleks"
+		{
+			"name"	"chicken_gone_fleks"
+		}
+		"chicken_gone_zombie"
+		{
+			"name"	"chicken_gone_zombie"
+		}
+		"chicken_goop"
+		{
+			"name"	"chicken_goop"
+		}
+		"chicken_impact_burst"
+		{
+			"name"	"chicken_impact_burst"
+		}
+		"chicken_impact_burst2"
+		{
+			"name"	"chicken_impact_burst2"
+		}
+		"chicken_impact_burst3"
+		{
+			"name"	"chicken_impact_burst3"
+		}
+		"chicken_impact_burst_zombie"
+		{
+			"name"	"chicken_impact_burst_zombie"
+		}
+		"chicken_rez"
+		{
+			"name"	"chicken_rez"
+		}
+		"chicken_rez_dirt_child"
+		{
+			"name"	"chicken_rez_dirt_child"
+		}
+		"chicken_rez_dirt_child_clumps"
+		{
+			"name"	"chicken_rez_dirt_child_clumps"
+		}
+		"chicken_rez_dirt_smoke_puff"
+		{
+			"name"	"chicken_rez_dirt_smoke_puff"
+		}
+	}
+	"cs_weapon_fx.pcf"
+	{
+		"confetti_A"
+		{
+			"name"	"confetti_A"
+		}
+		"confetti_A_omni"
+		{
+			"name"	"confetti_A_omni"
+		}
+		"confetti_B"
+		{
+			"name"	"confetti_B"
+		}
+		"confetti_B_omni"
+		{
+			"name"	"confetti_B_omni"
+		}
+		"confetti_balloons_confetti_C"
+		{
+			"name"	"confetti_balloons_confetti_C"
+		}
+		"confetti_C_omni"
+		{
+			"name"	"confetti_C_omni"
+		}
+		"confettib_A"
+		{
+			"name"	"confettib_A"
+		}
+		"confettib_A_omni"
+		{
+			"name"	"confettib_A_omni"
+		}
+		"confettib_B"
+		{
+			"name"	"confettib_B"
+		}
+		"confettib_B_omni"
+		{
+			"name"	"confettib_B_omni"
+		}
+		"confettib_C"
+		{
+			"name"	"confettib_C"
+		}
+		"confettib_C_omni"
+		{
+			"name"	"confettib_C_omni"
+		}
+		"weapon_confetti"
+		{
+			"name"	"weapon_confetti"
+		}
+		"weapon_confetti_balloons"
+		{
+			"name"	"weapon_confetti_balloons"
+		}
+		"weapon_confetti_cheap"
+		{
+			"name"	"weapon_confetti_cheap"
+		}
+		"weapon_confetti_omni"
+		{
+			"name"	"weapon_confetti_omni"
+		}
+		"weapon_confetti_omni_cheap"
+		{
+			"name"	"weapon_confetti_omni_cheap"
+		}
+		"weapon_confetti_sparks"
+		{
+			"name"	"weapon_confetti_sparks"
+		}
+		"weapon_confetti_sparks_2"
+		{
+			"name"	"weapon_confetti_sparks_2"
+		}
+		"weapon_decoy_ground_effect"
+		{
+			"name"	"weapon_decoy_ground_effect"
+		}
+		"weapon_decoy_ground_effect_shot"
+		{
+			"name"	"weapon_decoy_ground_effect_shot"
+		}
+		"weapon_decoy_ground_embers_01"
+		{
+			"name"	"weapon_decoy_ground_embers_01"
+		}
+		"weapon_decoy_ground_glow_02"
+		{
+			"name"	"weapon_decoy_ground_glow_02"
+		}
+		"weapon_decoy_ground_low_02"
+		{
+			"name"	"weapon_decoy_ground_low_02"
+		}
+		"weapon_decoy_ground_low_03"
+		{
+			"name"	"weapon_decoy_ground_low_03"
+		}
+		"weapon_decoy_ground_low_04"
+		{
+			"name"	"weapon_decoy_ground_low_04"
+		}
+		"weapon_decoy_ground_primary_01"
+		{
+			"name"	"weapon_decoy_ground_primary_01"
+		}
+		"weapon_decoy_ground_smoke_01"
+		{
+			"name"	"weapon_decoy_ground_smoke_01"
+		}
+		"weapon_empty"
+		{
+			"name"	"weapon_empty"
+		}
+		"weapon_molotov_fp"
+		{
+			"name"	"weapon_molotov_fp"
+		}
+		"weapon_molotov_fp_fire"
+		{
+			"name"	"weapon_molotov_fp_fire"
+		}
+		"weapon_molotov_fp_fire2"
+		{
+			"name"	"weapon_molotov_fp_fire2"
+		}
+		"weapon_molotov_fp_fire3"
+		{
+			"name"	"weapon_molotov_fp_fire3"
+		}
+		"weapon_molotov_fp_fire3b"
+		{
+			"name"	"weapon_molotov_fp_fire3b"
+		}
+		"weapon_molotov_fp_fire3c"
+		{
+			"name"	"weapon_molotov_fp_fire3c"
+		}
+		"weapon_molotov_fp_fire3d"
+		{
+			"name"	"weapon_molotov_fp_fire3d"
+		}
+		"weapon_molotov_fp_fire_blue"
+		{
+			"name"	"weapon_molotov_fp_fire_blue"
+		}
+		"weapon_molotov_fp_glow"
+		{
+			"name"	"weapon_molotov_fp_glow"
+		}
+		"weapon_molotov_fp_wick"
+		{
+			"name"	"weapon_molotov_fp_wick"
+		}
+		"weapon_molotov_held"
+		{
+			"name"	"weapon_molotov_held"
+		}
+		"weapon_molotov_thrown"
+		{
+			"name"	"weapon_molotov_thrown"
+		}
+		"weapon_molotov_thrown_child1"
+		{
+			"name"	"weapon_molotov_thrown_child1"
+		}
+		"weapon_molotov_thrown_child3"
+		{
+			"name"	"weapon_molotov_thrown_child3"
+		}
+		"weapon_molotov_thrown_glow"
+		{
+			"name"	"weapon_molotov_thrown_glow"
+		}
+		"weapon_muzzle_confetti_shooter"
+		{
+			"name"	"weapon_muzzle_confetti_shooter"
+		}
+		"weapon_muzzle_flash_assaultrifle"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle"
+		}
+		"weapon_muzzle_flash_assaultrifle_fallback"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_fallback"
+		}
+		"weapon_muzzle_flash_assaultrifle_fallback2"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_fallback2"
+		}
+		"weapon_muzzle_flash_assaultrifle_FP"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_FP"
+		}
+		"weapon_muzzle_flash_assaultrifle_glow"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_glow"
+		}
+		"weapon_muzzle_flash_assaultrifle_main"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_main"
+		}
+		"weapon_muzzle_flash_assaultrifle_main_FP"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_main_FP"
+		}
+		"weapon_muzzle_flash_assaultrifle_main_sub1"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_main_sub1"
+		}
+		"weapon_muzzle_flash_assaultrifle_main_sub2"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_main_sub2"
+		}
+		"weapon_muzzle_flash_assaultrifle_main_sub3"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_main_sub3"
+		}
+		"weapon_muzzle_flash_assaultrifle_parent_silenced"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_parent_silenced"
+		}
+		"weapon_muzzle_flash_assaultrifle_silenced"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_silenced"
+		}
+		"weapon_muzzle_flash_assaultrifle_silenced_glow"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_silenced_glow"
+		}
+		"weapon_muzzle_flash_assaultrifle_vent"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_vent"
+		}
+		"weapon_muzzle_flash_assaultrifle_vent_fallback"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_vent_fallback"
+		}
+		"weapon_muzzle_flash_assaultrifle_vent_fire"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_vent_fire"
+		}
+		"weapon_muzzle_flash_assaultrifle_vent_FP"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_vent_FP"
+		}
+		"weapon_muzzle_flash_assaultrifle_vent_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_assaultrifle_vent_FP_cheap"
+		}
+		"weapon_muzzle_flash_assualtrifle_flame"
+		{
+			"name"	"weapon_muzzle_flash_assualtrifle_flame"
+		}
+		"weapon_muzzle_flash_autoshotgun"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun"
+		}
+		"weapon_muzzle_flash_autoshotgun_fallback"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_fallback"
+		}
+		"weapon_muzzle_flash_autoshotgun_fallback2"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_fallback2"
+		}
+		"weapon_muzzle_flash_autoshotgun_FP"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_FP"
+		}
+		"weapon_muzzle_flash_autoshotgun_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_FP_cheap"
+		}
+		"weapon_muzzle_flash_autoshotgun_glow"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_glow"
+		}
+		"weapon_muzzle_flash_autoshotgun_main"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_main"
+		}
+		"weapon_muzzle_flash_autoshotgun_main2"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_main2"
+		}
+		"weapon_muzzle_flash_autoshotgun_main3"
+		{
+			"name"	"weapon_muzzle_flash_autoshotgun_main3"
+		}
+		"weapon_muzzle_flash_awp"
+		{
+			"name"	"weapon_muzzle_flash_awp"
+		}
+		"weapon_muzzle_flash_awp_tracer"
+		{
+			"name"	"weapon_muzzle_flash_awp_tracer"
+		}
+		"weapon_muzzle_flash_huntingrifle"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle"
+		}
+		"weapon_muzzle_flash_huntingrifle_FP"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle_FP"
+		}
+		"weapon_muzzle_flash_huntingrifle_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle_FP_cheap"
+		}
+		"weapon_muzzle_flash_huntingrifle_glow"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle_glow"
+		}
+		"weapon_muzzle_flash_huntingrifle_main"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle_main"
+		}
+		"weapon_muzzle_flash_huntingrifle_main2"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle_main2"
+		}
+		"weapon_muzzle_flash_huntingrifle_main_fallback"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle_main_fallback"
+		}
+		"weapon_muzzle_flash_huntingrifle_vent1"
+		{
+			"name"	"weapon_muzzle_flash_huntingrifle_vent1"
+		}
+		"weapon_muzzle_flash_para"
+		{
+			"name"	"weapon_muzzle_flash_para"
+		}
+		"weapon_muzzle_flash_para_b"
+		{
+			"name"	"weapon_muzzle_flash_para_b"
+		}
+		"weapon_muzzle_flash_para_fallback"
+		{
+			"name"	"weapon_muzzle_flash_para_fallback"
+		}
+		"weapon_muzzle_flash_para_fallback2"
+		{
+			"name"	"weapon_muzzle_flash_para_fallback2"
+		}
+		"weapon_muzzle_flash_para_flash"
+		{
+			"name"	"weapon_muzzle_flash_para_flash"
+		}
+		"weapon_muzzle_flash_para_FP"
+		{
+			"name"	"weapon_muzzle_flash_para_FP"
+		}
+		"weapon_muzzle_flash_para_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_para_FP_cheap"
+		}
+		"weapon_muzzle_flash_para_glow"
+		{
+			"name"	"weapon_muzzle_flash_para_glow"
+		}
+		"weapon_muzzle_flash_para_main"
+		{
+			"name"	"weapon_muzzle_flash_para_main"
+		}
+		"weapon_muzzle_flash_para_main2"
+		{
+			"name"	"weapon_muzzle_flash_para_main2"
+		}
+		"weapon_muzzle_flash_para_main_fallback"
+		{
+			"name"	"weapon_muzzle_flash_para_main_fallback"
+		}
+		"weapon_muzzle_flash_para_tracers"
+		{
+			"name"	"weapon_muzzle_flash_para_tracers"
+		}
+		"weapon_muzzle_flash_para_vent1"
+		{
+			"name"	"weapon_muzzle_flash_para_vent1"
+		}
+		"weapon_muzzle_flash_pistol"
+		{
+			"name"	"weapon_muzzle_flash_pistol"
+		}
+		"weapon_muzzle_flash_pistol_core"
+		{
+			"name"	"weapon_muzzle_flash_pistol_core"
+		}
+		"weapon_muzzle_flash_pistol_core2"
+		{
+			"name"	"weapon_muzzle_flash_pistol_core2"
+		}
+		"weapon_muzzle_flash_pistol_elite"
+		{
+			"name"	"weapon_muzzle_flash_pistol_elite"
+		}
+		"weapon_muzzle_flash_pistol_elite_FP"
+		{
+			"name"	"weapon_muzzle_flash_pistol_elite_FP"
+		}
+		"weapon_muzzle_flash_pistol_fallback"
+		{
+			"name"	"weapon_muzzle_flash_pistol_fallback"
+		}
+		"weapon_muzzle_flash_pistol_fallback2"
+		{
+			"name"	"weapon_muzzle_flash_pistol_fallback2"
+		}
+		"weapon_muzzle_flash_pistol_FP"
+		{
+			"name"	"weapon_muzzle_flash_pistol_FP"
+		}
+		"weapon_muzzle_flash_pistol_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_pistol_FP_cheap"
+		}
+		"weapon_muzzle_flash_pistol_main"
+		{
+			"name"	"weapon_muzzle_flash_pistol_main"
+		}
+		"weapon_muzzle_flash_pistol_main2"
+		{
+			"name"	"weapon_muzzle_flash_pistol_main2"
+		}
+		"weapon_muzzle_flash_pistol_main2_silenced"
+		{
+			"name"	"weapon_muzzle_flash_pistol_main2_silenced"
+		}
+		"weapon_muzzle_flash_pistol_silenced"
+		{
+			"name"	"weapon_muzzle_flash_pistol_silenced"
+		}
+		"weapon_muzzle_flash_shotgun"
+		{
+			"name"	"weapon_muzzle_flash_shotgun"
+		}
+		"weapon_muzzle_flash_shotgun_FP"
+		{
+			"name"	"weapon_muzzle_flash_shotgun_FP"
+		}
+		"weapon_muzzle_flash_shotgun_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_shotgun_FP_cheap"
+		}
+		"weapon_muzzle_flash_shotgun_glow"
+		{
+			"name"	"weapon_muzzle_flash_shotgun_glow"
+		}
+		"weapon_muzzle_flash_shotgun_glow2"
+		{
+			"name"	"weapon_muzzle_flash_shotgun_glow2"
+		}
+		"weapon_muzzle_flash_shotgun_glow3"
+		{
+			"name"	"weapon_muzzle_flash_shotgun_glow3"
+		}
+		"weapon_muzzle_flash_shotgun_main"
+		{
+			"name"	"weapon_muzzle_flash_shotgun_main"
+		}
+		"weapon_muzzle_flash_shotgun_main2"
+		{
+			"name"	"weapon_muzzle_flash_shotgun_main2"
+		}
+		"weapon_muzzle_flash_smg"
+		{
+			"name"	"weapon_muzzle_flash_smg"
+		}
+		"weapon_muzzle_flash_smg_backup"
+		{
+			"name"	"weapon_muzzle_flash_smg_backup"
+		}
+		"weapon_muzzle_flash_smg_fallback"
+		{
+			"name"	"weapon_muzzle_flash_smg_fallback"
+		}
+		"weapon_muzzle_flash_smg_fallback2"
+		{
+			"name"	"weapon_muzzle_flash_smg_fallback2"
+		}
+		"weapon_muzzle_flash_smg_FP"
+		{
+			"name"	"weapon_muzzle_flash_smg_FP"
+		}
+		"weapon_muzzle_flash_smg_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_smg_FP_cheap"
+		}
+		"weapon_muzzle_flash_smg_glow"
+		{
+			"name"	"weapon_muzzle_flash_smg_glow"
+		}
+		"weapon_muzzle_flash_smg_glow2"
+		{
+			"name"	"weapon_muzzle_flash_smg_glow2"
+		}
+		"weapon_muzzle_flash_smg_glow3"
+		{
+			"name"	"weapon_muzzle_flash_smg_glow3"
+		}
+		"weapon_muzzle_flash_smg_glow_silenced"
+		{
+			"name"	"weapon_muzzle_flash_smg_glow_silenced"
+		}
+		"weapon_muzzle_flash_smg_main"
+		{
+			"name"	"weapon_muzzle_flash_smg_main"
+		}
+		"weapon_muzzle_flash_smg_main2"
+		{
+			"name"	"weapon_muzzle_flash_smg_main2"
+		}
+		"weapon_muzzle_flash_smg_main_silenced"
+		{
+			"name"	"weapon_muzzle_flash_smg_main_silenced"
+		}
+		"weapon_muzzle_flash_smg_parent"
+		{
+			"name"	"weapon_muzzle_flash_smg_parent"
+		}
+		"weapon_muzzle_flash_smg_parent_silenced"
+		{
+			"name"	"weapon_muzzle_flash_smg_parent_silenced"
+		}
+		"weapon_muzzle_flash_smg_silenced"
+		{
+			"name"	"weapon_muzzle_flash_smg_silenced"
+		}
+		"weapon_muzzle_flash_smg_silenced_FP"
+		{
+			"name"	"weapon_muzzle_flash_smg_silenced_FP"
+		}
+		"weapon_muzzle_flash_smg_silenced_FP_cheap"
+		{
+			"name"	"weapon_muzzle_flash_smg_silenced_FP_cheap"
+		}
+		"weapon_muzzle_flash_smoke_medium"
+		{
+			"name"	"weapon_muzzle_flash_smoke_medium"
+		}
+		"weapon_muzzle_flash_smoke_small"
+		{
+			"name"	"weapon_muzzle_flash_smoke_small"
+		}
+		"weapon_muzzle_flash_smoke_small2"
+		{
+			"name"	"weapon_muzzle_flash_smoke_small2"
+		}
+		"weapon_muzzle_flash_smoke_small3"
+		{
+			"name"	"weapon_muzzle_flash_smoke_small3"
+		}
+		"weapon_muzzle_flash_smoke_small4"
+		{
+			"name"	"weapon_muzzle_flash_smoke_small4"
+		}
+		"weapon_muzzle_flash_smoke_smallest"
+		{
+			"name"	"weapon_muzzle_flash_smoke_smallest"
+		}
+		"weapon_muzzle_flash_sparks"
+		{
+			"name"	"weapon_muzzle_flash_sparks"
+		}
+		"weapon_muzzle_flash_sparks2"
+		{
+			"name"	"weapon_muzzle_flash_sparks2"
+		}
+		"weapon_muzzle_flash_sparks3"
+		{
+			"name"	"weapon_muzzle_flash_sparks3"
+		}
+		"weapon_muzzle_flash_sparks4"
+		{
+			"name"	"weapon_muzzle_flash_sparks4"
+		}
+		"weapon_muzzle_flash_sparks5"
+		{
+			"name"	"weapon_muzzle_flash_sparks5"
+		}
+		"weapon_muzzle_flash_sparks6"
+		{
+			"name"	"weapon_muzzle_flash_sparks6"
+		}
+		"weapon_muzzle_flash_sparks7"
+		{
+			"name"	"weapon_muzzle_flash_sparks7"
+		}
+		"weapon_muzzle_flash_taser"
+		{
+			"name"	"weapon_muzzle_flash_taser"
+		}
+		"weapon_muzzle_flash_taser_fallback"
+		{
+			"name"	"weapon_muzzle_flash_taser_fallback"
+		}
+		"weapon_muzzle_flash_taser_fallback2"
+		{
+			"name"	"weapon_muzzle_flash_taser_fallback2"
+		}
+		"weapon_muzzle_smoke"
+		{
+			"name"	"weapon_muzzle_smoke"
+		}
+		"weapon_muzzle_smoke_b"
+		{
+			"name"	"weapon_muzzle_smoke_b"
+		}
+		"weapon_muzzle_smoke_b Version #2"
+		{
+			"name"	"weapon_muzzle_smoke_b Version #2"
+		}
+		"weapon_muzzle_smoke_long"
+		{
+			"name"	"weapon_muzzle_smoke_long"
+		}
+		"weapon_muzzle_smoke_long_b"
+		{
+			"name"	"weapon_muzzle_smoke_long_b"
+		}
+		"weapon_muzzleflash_illumination"
+		{
+			"name"	"weapon_muzzleflash_illumination"
+		}
+		"weapon_muzzleflash_illumination_add"
+		{
+			"name"	"weapon_muzzleflash_illumination_add"
+		}
+		"weapon_sensorgren_beeplight"
+		{
+			"name"	"weapon_sensorgren_beeplight"
+		}
+		"weapon_sensorgren_beeplight_inner"
+		{
+			"name"	"weapon_sensorgren_beeplight_inner"
+		}
+		"weapon_sensorgren_debris"
+		{
+			"name"	"weapon_sensorgren_debris"
+		}
+		"weapon_sensorgren_detlight"
+		{
+			"name"	"weapon_sensorgren_detlight"
+		}
+		"weapon_sensorgren_detlight_child01"
+		{
+			"name"	"weapon_sensorgren_detlight_child01"
+		}
+		"weapon_sensorgren_detlight_child02"
+		{
+			"name"	"weapon_sensorgren_detlight_child02"
+		}
+		"weapon_sensorgren_detonate"
+		{
+			"name"	"weapon_sensorgren_detonate"
+		}
+		"weapon_sensorgren_glow"
+		{
+			"name"	"weapon_sensorgren_glow"
+		}
+		"weapon_sensorgren_glowring"
+		{
+			"name"	"weapon_sensorgren_glowring"
+		}
+		"weapon_sensorgren_smoke"
+		{
+			"name"	"weapon_sensorgren_smoke"
+		}
+		"weapon_sensorgren_spark_01"
+		{
+			"name"	"weapon_sensorgren_spark_01"
+		}
+		"weapon_sensorgren_spark_02"
+		{
+			"name"	"weapon_sensorgren_spark_02"
+		}
+		"weapon_sensorgren_spark_02b"
+		{
+			"name"	"weapon_sensorgren_spark_02b"
+		}
+		"weapon_sensorgren_spark_03"
+		{
+			"name"	"weapon_sensorgren_spark_03"
+		}
+		"weapon_sensorgren_wiggly"
+		{
+			"name"	"weapon_sensorgren_wiggly"
+		}
+		"weapon_shell_casing_50cal"
+		{
+			"name"	"weapon_shell_casing_50cal"
+		}
+		"weapon_shell_casing_50cal_bonus"
+		{
+			"name"	"weapon_shell_casing_50cal_bonus"
+		}
+		"weapon_shell_casing_50cal_fallback"
+		{
+			"name"	"weapon_shell_casing_50cal_fallback"
+		}
+		"weapon_shell_casing_9mm"
+		{
+			"name"	"weapon_shell_casing_9mm"
+		}
+		"weapon_shell_casing_9mm_backup"
+		{
+			"name"	"weapon_shell_casing_9mm_backup"
+		}
+		"weapon_shell_casing_9mm_fallback"
+		{
+			"name"	"weapon_shell_casing_9mm_fallback"
+		}
+		"weapon_shell_casing_9mm_fp"
+		{
+			"name"	"weapon_shell_casing_9mm_fp"
+		}
+		"weapon_shell_casing_9mm_fp_fallback"
+		{
+			"name"	"weapon_shell_casing_9mm_fp_fallback"
+		}
+		"weapon_shell_casing_minigun"
+		{
+			"name"	"weapon_shell_casing_minigun"
+		}
+		"weapon_shell_casing_minigun_fallback"
+		{
+			"name"	"weapon_shell_casing_minigun_fallback"
+		}
+		"weapon_shell_casing_rifle"
+		{
+			"name"	"weapon_shell_casing_rifle"
+		}
+		"weapon_shell_casing_rifle_fallback"
+		{
+			"name"	"weapon_shell_casing_rifle_fallback"
+		}
+		"weapon_shell_casing_shotgun"
+		{
+			"name"	"weapon_shell_casing_shotgun"
+		}
+		"weapon_shell_casing_shotgun_fallback"
+		{
+			"name"	"weapon_shell_casing_shotgun_fallback"
+		}
+		"weapon_shell_casing_super_trail"
+		{
+			"name"	"weapon_shell_casing_super_trail"
+		}
+		"weapon_shell_casing_super_trail_base"
+		{
+			"name"	"weapon_shell_casing_super_trail_base"
+		}
+		"weapon_shell_casing_super_trail_glow"
+		{
+			"name"	"weapon_shell_casing_super_trail_glow"
+		}
+		"weapon_shell_casing_super_trail_smoke"
+		{
+			"name"	"weapon_shell_casing_super_trail_smoke"
+		}
+		"weapon_shell_casing_super_trail_sparks"
+		{
+			"name"	"weapon_shell_casing_super_trail_sparks"
+		}
+		"weapon_shell_casing_super_trail_sparks2"
+		{
+			"name"	"weapon_shell_casing_super_trail_sparks2"
+		}
+		"weapon_shell_eject_smoke_assrifle2"
+		{
+			"name"	"weapon_shell_eject_smoke_assrifle2"
+		}
+		"weapon_shell_eject_smoke_assrifle3"
+		{
+			"name"	"weapon_shell_eject_smoke_assrifle3"
+		}
+		"weapon_shell_eject_smoke_awp2"
+		{
+			"name"	"weapon_shell_eject_smoke_awp2"
+		}
+		"weapon_shell_eject_smoke_awp3"
+		{
+			"name"	"weapon_shell_eject_smoke_awp3"
+		}
+		"weapon_shell_eject_smoke_para2"
+		{
+			"name"	"weapon_shell_eject_smoke_para2"
+		}
+		"weapon_shell_eject_smoke_para3"
+		{
+			"name"	"weapon_shell_eject_smoke_para3"
+		}
+		"weapon_shell_eject_smoke_pistol1"
+		{
+			"name"	"weapon_shell_eject_smoke_pistol1"
+		}
+		"weapon_shell_eject_smoke_pistol2"
+		{
+			"name"	"weapon_shell_eject_smoke_pistol2"
+		}
+		"weapon_shell_eject_smoke_pistol3"
+		{
+			"name"	"weapon_shell_eject_smoke_pistol3"
+		}
+		"weapon_shell_eject_smoke_pistol_elite"
+		{
+			"name"	"weapon_shell_eject_smoke_pistol_elite"
+		}
+		"weapon_shell_eject_smoke_rifle2"
+		{
+			"name"	"weapon_shell_eject_smoke_rifle2"
+		}
+		"weapon_shell_eject_smoke_rifle3"
+		{
+			"name"	"weapon_shell_eject_smoke_rifle3"
+		}
+		"weapon_shell_eject_smoke_shotgun1"
+		{
+			"name"	"weapon_shell_eject_smoke_shotgun1"
+		}
+		"weapon_shell_eject_smoke_shotgun2"
+		{
+			"name"	"weapon_shell_eject_smoke_shotgun2"
+		}
+		"weapon_shell_eject_smoke_shotgun3"
+		{
+			"name"	"weapon_shell_eject_smoke_shotgun3"
+		}
+		"weapon_shell_eject_smoke_smg1"
+		{
+			"name"	"weapon_shell_eject_smoke_smg1"
+		}
+		"weapon_shell_eject_smoke_smg3"
+		{
+			"name"	"weapon_shell_eject_smoke_smg3"
+		}
+		"weapon_taser_flash"
+		{
+			"name"	"weapon_taser_flash"
+		}
+		"weapon_taser_flash_impact"
+		{
+			"name"	"weapon_taser_flash_impact"
+		}
+		"weapon_taser_glow"
+		{
+			"name"	"weapon_taser_glow"
+		}
+		"weapon_taser_glow_impact"
+		{
+			"name"	"weapon_taser_glow_impact"
+		}
+		"weapon_taser_sparks"
+		{
+			"name"	"weapon_taser_sparks"
+		}
+		"weapon_taser_sparks_impact"
+		{
+			"name"	"weapon_taser_sparks_impact"
+		}
+		"weapon_tracers"
+		{
+			"name"	"weapon_tracers"
+		}
+		"weapon_tracers_50cal"
+		{
+			"name"	"weapon_tracers_50cal"
+		}
+		"weapon_tracers_50cal_glow"
+		{
+			"name"	"weapon_tracers_50cal_glow"
+		}
+		"weapon_tracers_50cal_low"
+		{
+			"name"	"weapon_tracers_50cal_low"
+		}
+		"weapon_tracers_50cal_low_glow"
+		{
+			"name"	"weapon_tracers_50cal_low_glow"
+		}
+		"weapon_tracers_assrifle"
+		{
+			"name"	"weapon_tracers_assrifle"
+		}
+		"weapon_tracers_backup"
+		{
+			"name"	"weapon_tracers_backup"
+		}
+		"weapon_tracers_mach"
+		{
+			"name"	"weapon_tracers_mach"
+		}
+		"weapon_tracers_original"
+		{
+			"name"	"weapon_tracers_original"
+		}
+		"weapon_tracers_pistol"
+		{
+			"name"	"weapon_tracers_pistol"
+		}
+		"weapon_tracers_rifle"
+		{
+			"name"	"weapon_tracers_rifle"
+		}
+		"weapon_tracers_shot"
+		{
+			"name"	"weapon_tracers_shot"
+		}
+		"weapon_tracers_smg"
+		{
+			"name"	"weapon_tracers_smg"
+		}
+		"weapon_tracers_taser"
+		{
+			"name"	"weapon_tracers_taser"
+		}
+		"weapon_tracers_taser_fallback"
+		{
+			"name"	"weapon_tracers_taser_fallback"
+		}
+		"weapon_tracers_taser_fallback2"
+		{
+			"name"	"weapon_tracers_taser_fallback2"
+		}
+		"weapon_tracers_taser_wire1a"
+		{
+			"name"	"weapon_tracers_taser_wire1a"
+		}
+		"weapon_tracers_taser_wire1b"
+		{
+			"name"	"weapon_tracers_taser_wire1b"
+		}
+		"weapon_tracers_taser_wire2"
+		{
+			"name"	"weapon_tracers_taser_wire2"
+		}
+	}
+	"ar_monastery.pcf"
+	{
+		"monastery_candle_flame"
+		{
+			"name"	"monastery_candle_flame"
+		}
+		"monastery_candle_smoke_long"
+		{
+			"name"	"monastery_candle_smoke_long"
+		}
+	}
+	"cs_italy.pcf"
+	{
+		"italy_leaf_blow_horizontal"
+		{
+			"name"	"italy_leaf_blow_horizontal"
+		}
+		"italy_leaf_blow_horizontal_east"
+		{
+			"name"	"italy_leaf_blow_horizontal_east"
+		}
+		"italy_leaf_blow_horizontal_west"
+		{
+			"name"	"italy_leaf_blow_horizontal_west"
+		}
+		"italy_leaf_blow_vertical"
+		{
+			"name"	"italy_leaf_blow_vertical"
+		}
+		"italy_paper_blow_horizontal"
+		{
+			"name"	"italy_paper_blow_horizontal"
+		}
+		"italy_paper_blow_horizontal_east"
+		{
+			"name"	"italy_paper_blow_horizontal_east"
+		}
+		"italy_paper_blow_horizontal_west"
+		{
+			"name"	"italy_paper_blow_horizontal_west"
+		}
+		"italy_smokestack"
+		{
+			"name"	"italy_smokestack"
+		}
+		"italy_smokestack_backup"
+		{
+			"name"	"italy_smokestack_backup"
+		}
+		"italy_smokestack_softeners"
+		{
+			"name"	"italy_smokestack_softeners"
+		}
+		"italy_smokestack_start"
+		{
+			"name"	"italy_smokestack_start"
+		}
+	}
+	"cs_office.pcf"
+	{
+		"office_child_embers01a"
+		{
+			"name"	"office_child_embers01a"
+		}
+		"office_child_flame01b"
+		{
+			"name"	"office_child_flame01b"
+		}
+		"office_child_flame02b"
+		{
+			"name"	"office_child_flame02b"
+		}
+		"office_child_flame03b"
+		{
+			"name"	"office_child_flame03b"
+		}
+		"office_child_glow01b"
+		{
+			"name"	"office_child_glow01b"
+		}
+		"office_child_glow02b"
+		{
+			"name"	"office_child_glow02b"
+		}
+		"office_child_glow03a"
+		{
+			"name"	"office_child_glow03a"
+		}
+		"office_child_glow03a_backup"
+		{
+			"name"	"office_child_glow03a_backup"
+		}
+		"office_child_glow04a"
+		{
+			"name"	"office_child_glow04a"
+		}
+		"office_fire"
+		{
+			"name"	"office_fire"
+		}
+		"office_leak_drip"
+		{
+			"name"	"office_leak_drip"
+		}
+		"office_leak_splash"
+		{
+			"name"	"office_leak_splash"
+		}
+		"office_leak_splash_child"
+		{
+			"name"	"office_leak_splash_child"
+		}
+		"office_leak_steam"
+		{
+			"name"	"office_leak_steam"
+		}
+		"office_leak_steam_child_base"
+		{
+			"name"	"office_leak_steam_child_base"
+		}
+		"office_leak_steam_child_cloud"
+		{
+			"name"	"office_leak_steam_child_cloud"
+		}
+		"office_leak_steam_child_droplets"
+		{
+			"name"	"office_leak_steam_child_droplets"
+		}
+		"office_leak_steam_child_mist"
+		{
+			"name"	"office_leak_steam_child_mist"
+		}
+		"office_smoke"
+		{
+			"name"	"office_smoke"
+		}
+	}
+	"de_aztec.pcf"
+	{
+		"aztec_copter_takeoff"
+		{
+			"name"	"aztec_copter_takeoff"
+		}
+		"aztec_copter_takeoff_dust_high"
+		{
+			"name"	"aztec_copter_takeoff_dust_high"
+		}
+		"aztec_copter_takeoff_dust_low"
+		{
+			"name"	"aztec_copter_takeoff_dust_low"
+		}
+		"aztec_copter_takeoff_grass"
+		{
+			"name"	"aztec_copter_takeoff_grass"
+		}
+		"aztec_copter_takeoff_leaves"
+		{
+			"name"	"aztec_copter_takeoff_leaves"
+		}
+		"aztec_copter_takeoff_screen"
+		{
+			"name"	"aztec_copter_takeoff_screen"
+		}
+		"aztec_fog_hallway"
+		{
+			"name"	"aztec_fog_hallway"
+		}
+		"aztec_fog_hallway_midair_noise"
+		{
+			"name"	"aztec_fog_hallway_midair_noise"
+		}
+		"aztec_fog_low"
+		{
+			"name"	"aztec_fog_low"
+		}
+		"aztec_fog_volume_128_128"
+		{
+			"name"	"aztec_fog_volume_128_128"
+		}
+		"aztec_fog_volume_128_128_noise"
+		{
+			"name"	"aztec_fog_volume_128_128_noise"
+		}
+		"aztec_fog_volume_bottom"
+		{
+			"name"	"aztec_fog_volume_bottom"
+		}
+		"aztec_fog_volume_bottom_noise"
+		{
+			"name"	"aztec_fog_volume_bottom_noise"
+		}
+		"aztec_fog_volume_initial"
+		{
+			"name"	"aztec_fog_volume_initial"
+		}
+	}
+	"de_bank.pcf"
+	{
+		"bank_exhaust"
+		{
+			"name"	"bank_exhaust"
+		}
+		"bank_steam"
+		{
+			"name"	"bank_steam"
+		}
+		"bank_steam_large"
+		{
+			"name"	"bank_steam_large"
+		}
+		"bank_steam_large_noise"
+		{
+			"name"	"bank_steam_large_noise"
+		}
+		"bank_steam_noise"
+		{
+			"name"	"bank_steam_noise"
+		}
+	}
+	"de_dust.pcf"
+	{
+		"dust_burning_engine"
+		{
+			"name"	"dust_burning_engine"
+		}
+		"dust_burning_engine_fallback"
+		{
+			"name"	"dust_burning_engine_fallback"
+		}
+		"dust_burning_engine_fire"
+		{
+			"name"	"dust_burning_engine_fire"
+		}
+		"dust_burning_engine_fire_glow"
+		{
+			"name"	"dust_burning_engine_fire_glow"
+		}
+		"dust_burning_engine_smoke"
+		{
+			"name"	"dust_burning_engine_smoke"
+		}
+		"dust_burning_engine_smoke_fallback"
+		{
+			"name"	"dust_burning_engine_smoke_fallback"
+		}
+		"dust_copter_takeoff"
+		{
+			"name"	"dust_copter_takeoff"
+		}
+		"dust_copter_takeoff_billow"
+		{
+			"name"	"dust_copter_takeoff_billow"
+		}
+		"dust_copter_takeoff_dust_high"
+		{
+			"name"	"dust_copter_takeoff_dust_high"
+		}
+		"dust_copter_takeoff_dust_linger"
+		{
+			"name"	"dust_copter_takeoff_dust_linger"
+		}
+		"dust_copter_takeoff_dust_low"
+		{
+			"name"	"dust_copter_takeoff_dust_low"
+		}
+		"dust_copter_takeoff_papers"
+		{
+			"name"	"dust_copter_takeoff_papers"
+		}
+		"dust_copter_takeoff_screen"
+		{
+			"name"	"dust_copter_takeoff_screen"
+		}
+		"dust_devil"
+		{
+			"name"	"dust_devil"
+		}
+		"dust_devil_leaves"
+		{
+			"name"	"dust_devil_leaves"
+		}
+		"dust_devil_paper"
+		{
+			"name"	"dust_devil_paper"
+		}
+		"dust_devil_points"
+		{
+			"name"	"dust_devil_points"
+		}
+		"dust_devil_smoke"
+		{
+			"name"	"dust_devil_smoke"
+		}
+		"dust_devil_smoke_slow"
+		{
+			"name"	"dust_devil_smoke_slow"
+		}
+		"dust_devil_swirls"
+		{
+			"name"	"dust_devil_swirls"
+		}
+		"dust_drift"
+		{
+			"name"	"dust_drift"
+		}
+		"dust_drift_paper"
+		{
+			"name"	"dust_drift_paper"
+		}
+		"dust_drift_paper_reverse"
+		{
+			"name"	"dust_drift_paper_reverse"
+		}
+		"dust_drift_reverse"
+		{
+			"name"	"dust_drift_reverse"
+		}
+		"dust_drift_smoke"
+		{
+			"name"	"dust_drift_smoke"
+		}
+		"dust_drift_smoke_reverse"
+		{
+			"name"	"dust_drift_smoke_reverse"
+		}
+		"dust_embers"
+		{
+			"name"	"dust_embers"
+		}
+		"dust_embers_heavy"
+		{
+			"name"	"dust_embers_heavy"
+		}
+		"dust_fog_volume_128_128"
+		{
+			"name"	"dust_fog_volume_128_128"
+		}
+		"dust_fog_volume_128_128_noise"
+		{
+			"name"	"dust_fog_volume_128_128_noise"
+		}
+		"dust_fog_volume_initial"
+		{
+			"name"	"dust_fog_volume_initial"
+		}
+		"dust_jet_roof_dust_L"
+		{
+			"name"	"dust_jet_roof_dust_L"
+		}
+		"dust_jet_roof_dust_parent"
+		{
+			"name"	"dust_jet_roof_dust_parent"
+		}
+		"dust_jet_roof_dust_R"
+		{
+			"name"	"dust_jet_roof_dust_R"
+		}
+		"dust_jet_rumble_clumps"
+		{
+			"name"	"dust_jet_rumble_clumps"
+		}
+		"dust_jet_rumble_debris1"
+		{
+			"name"	"dust_jet_rumble_debris1"
+		}
+		"dust_jet_rumble_dust"
+		{
+			"name"	"dust_jet_rumble_dust"
+		}
+		"dust_paper_blow_horizontal"
+		{
+			"name"	"dust_paper_blow_horizontal"
+		}
+		"dust_paper_blow_horizontal_east"
+		{
+			"name"	"dust_paper_blow_horizontal_east"
+		}
+		"dust_paper_blow_horizontal_west"
+		{
+			"name"	"dust_paper_blow_horizontal_west"
+		}
+		"dust_screen_fog_heavy"
+		{
+			"name"	"dust_screen_fog_heavy"
+		}
+	}
+	"de_house.pcf"
+	{
+		"house_chimney"
+		{
+			"name"	"house_chimney"
+		}
+		"house_exhaust_ct"
+		{
+			"name"	"house_exhaust_ct"
+		}
+		"house_exhaust_t"
+		{
+			"name"	"house_exhaust_t"
+		}
+		"house_fireplace"
+		{
+			"name"	"house_fireplace"
+		}
+		"house_fireplace_child"
+		{
+			"name"	"house_fireplace_child"
+		}
+	}
+	"de_mill.pcf"
+	{
+		"mill_dust_volume_700_200"
+		{
+			"name"	"mill_dust_volume_700_200"
+		}
+		"mill_dust_volume_700_200_low"
+		{
+			"name"	"mill_dust_volume_700_200_low"
+		}
+	}
+	"de_nuke.pcf"
+	{
+		"nuke_dust_volume_1200_700"
+		{
+			"name"	"nuke_dust_volume_1200_700"
+		}
+		"nuke_dust_volume_1200_700_low"
+		{
+			"name"	"nuke_dust_volume_1200_700_low"
+		}
+		"nuke_dust_volume_600_150"
+		{
+			"name"	"nuke_dust_volume_600_150"
+		}
+		"nuke_dust_volume_600_150_low"
+		{
+			"name"	"nuke_dust_volume_600_150_low"
+		}
+		"nuke_exhaust_ct"
+		{
+			"name"	"nuke_exhaust_ct"
+		}
+		"nuke_exhaust_t"
+		{
+			"name"	"nuke_exhaust_t"
+		}
+		"nuke_sparks"
+		{
+			"name"	"nuke_sparks"
+		}
+		"nuke_sparks1_core"
+		{
+			"name"	"nuke_sparks1_core"
+		}
+		"nuke_sparks1_glow"
+		{
+			"name"	"nuke_sparks1_glow"
+		}
+		"nuke_sparks_BACKUP"
+		{
+			"name"	"nuke_sparks_BACKUP"
+		}
+		"nuke_steam_rising"
+		{
+			"name"	"nuke_steam_rising"
+		}
+		"nuke_steam_rising_high"
+		{
+			"name"	"nuke_steam_rising_high"
+		}
+		"nuke_steam_rising_noise"
+		{
+			"name"	"nuke_steam_rising_noise"
+		}
+	}
+	"de_overpass.pcf"
+	{
+		"balloon_impact"
+		{
+			"name"	"balloon_impact"
+		}
+		"chicken_impact_burst2"
+		{
+			"name"	"chicken_impact_burst2"
+		}
+		"explosion_child_clumps02a"
+		{
+			"name"	"explosion_child_clumps02a"
+		}
+		"overpass_clouds"
+		{
+			"name"	"overpass_clouds"
+		}
+		"overpass_clouds_2"
+		{
+			"name"	"overpass_clouds_2"
+		}
+		"overpass_clouds_3"
+		{
+			"name"	"overpass_clouds_3"
+		}
+		"train_dust"
+		{
+			"name"	"train_dust"
+		}
+	}
+	"de_shacks.pcf"
+	{
+		"shacks_exhaust"
+		{
+			"name"	"shacks_exhaust"
+		}
+		"shacks_policelight_blue"
+		{
+			"name"	"shacks_policelight_blue"
+		}
+		"shacks_policelight_blue_core"
+		{
+			"name"	"shacks_policelight_blue_core"
+		}
+		"shacks_policelight_blue_fallback"
+		{
+			"name"	"shacks_policelight_blue_fallback"
+		}
+		"shacks_policelight_blue_strobe"
+		{
+			"name"	"shacks_policelight_blue_strobe"
+		}
+		"shacks_policelight_blue_strobe_round"
+		{
+			"name"	"shacks_policelight_blue_strobe_round"
+		}
+		"shacks_policelight_core_white"
+		{
+			"name"	"shacks_policelight_core_white"
+		}
+		"shacks_policelight_red"
+		{
+			"name"	"shacks_policelight_red"
+		}
+		"shacks_policelight_red_core"
+		{
+			"name"	"shacks_policelight_red_core"
+		}
+		"shacks_policelight_red_strobe"
+		{
+			"name"	"shacks_policelight_red_strobe"
+		}
+		"shacks_policelight_red_strobe_round"
+		{
+			"name"	"shacks_policelight_red_strobe_round"
+		}
+		"shacks_policelight_white_strobe"
+		{
+			"name"	"shacks_policelight_white_strobe"
+		}
+		"shacks_policelight_white_strobe_backup"
+		{
+			"name"	"shacks_policelight_white_strobe_backup"
+		}
+		"shacks_steam_child_base"
+		{
+			"name"	"shacks_steam_child_base"
+		}
+		"shacks_steam_child_droplets"
+		{
+			"name"	"shacks_steam_child_droplets"
+		}
+		"shacks_steam_short"
+		{
+			"name"	"shacks_steam_short"
+		}
+		"shacks_steam_short_child_cloud"
+		{
+			"name"	"shacks_steam_short_child_cloud"
+		}
+		"shacks_steam_short_child_mist"
+		{
+			"name"	"shacks_steam_short_child_mist"
+		}
+		"shacks_steam_short_fallback"
+		{
+			"name"	"shacks_steam_short_fallback"
+		}
+		"shacks_steam_short_fallback2"
+		{
+			"name"	"shacks_steam_short_fallback2"
+		}
+		"steam_short"
+		{
+			"name"	"steam_short"
+		}
+	}
+	"de_train.pcf"
+	{
+		"train_steam_leak"
+		{
+			"name"	"train_steam_leak"
+		}
+		"train_steam_leak_child_base"
+		{
+			"name"	"train_steam_leak_child_base"
+		}
+		"train_steam_leak_child_cloud"
+		{
+			"name"	"train_steam_leak_child_cloud"
+		}
+		"train_steam_leak_child_droplets"
+		{
+			"name"	"train_steam_leak_child_droplets"
+		}
+		"train_steam_leak_child_mist"
+		{
+			"name"	"train_steam_leak_child_mist"
+		}
+		"train_steam_rising"
+		{
+			"name"	"train_steam_rising"
+		}
+		"train_steam_rising_noise"
+		{
+			"name"	"train_steam_rising_noise"
+		}
+		"tv_impact_burst"
+		{
+			"name"	"tv_impact_burst"
+		}
+		"tv_monitor_impact"
+		{
+			"name"	"tv_monitor_impact"
+		}
+	}
+	"gg_baggage.pcf"
+	{
+		"baggage_leak_drip"
+		{
+			"name"	"baggage_leak_drip"
+		}
+		"baggage_leak_drip_child"
+		{
+			"name"	"baggage_leak_drip_child"
+		}
+		"baggage_leak_splash"
+		{
+			"name"	"baggage_leak_splash"
+		}
+		"baggage_leak_splash_child"
+		{
+			"name"	"baggage_leak_splash_child"
+		}
+		"baggage_leakypipe"
+		{
+			"name"	"baggage_leakypipe"
+		}
+		"baggage_sparks1"
+		{
+			"name"	"baggage_sparks1"
+		}
+		"baggage_sparks1_backup"
+		{
+			"name"	"baggage_sparks1_backup"
+		}
+		"baggage_sparks1_core"
+		{
+			"name"	"baggage_sparks1_core"
+		}
+		"baggage_sparks1_glow"
+		{
+			"name"	"baggage_sparks1_glow"
+		}
+		"baggage_steam_child_base"
+		{
+			"name"	"baggage_steam_child_base"
+		}
+		"baggage_steam_child_droplets"
+		{
+			"name"	"baggage_steam_child_droplets"
+		}
+		"baggage_steam_short"
+		{
+			"name"	"baggage_steam_short"
+		}
+		"baggage_steam_short_child_cloud"
+		{
+			"name"	"baggage_steam_short_child_cloud"
+		}
+		"baggage_steam_short_child_mist"
+		{
+			"name"	"baggage_steam_short_child_mist"
+		}
+		"baggage_steam_vent_e"
+		{
+			"name"	"baggage_steam_vent_e"
+		}
+		"baggage_steam_vent_e_detail"
+		{
+			"name"	"baggage_steam_vent_e_detail"
+		}
+		"baggage_steam_vent_e_interior"
+		{
+			"name"	"baggage_steam_vent_e_interior"
+		}
+		"baggage_steam_volume_e"
+		{
+			"name"	"baggage_steam_volume_e"
+		}
+		"baggage_steam_volume_e_bottom"
+		{
+			"name"	"baggage_steam_volume_e_bottom"
+		}
+		"baggage_steam_volume_e_front"
+		{
+			"name"	"baggage_steam_volume_e_front"
+		}
+	}
+}
